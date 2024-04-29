@@ -294,6 +294,9 @@ INPUT title.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT 4. Tecnologías\tecnologías.aux
 OUTPUT main.aux
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\main.out
@@ -437,19 +440,6 @@ INPUT .\abreviaturas.tex
 INPUT .\abreviaturas.tex
 INPUT .\abreviaturas.tex
 INPUT abreviaturas.tex
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr7.tfm
 INPUT .\2. Contexto\contexto.tex
 INPUT .\2. Contexto\contexto.tex
 OUTPUT 2. Contexto\contexto.aux
@@ -459,24 +449,23 @@ INPUT 2. Contexto\contexto.tex
 INPUT .\2. Contexto\2.1 Gestion de proyectos.tex
 INPUT .\2. Contexto\2.1 Gestion de proyectos.tex
 INPUT 2. Contexto\2.1 Gestion de proyectos.tex
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT .\2. Contexto\2.2 Herramientas.tex
 INPUT .\2. Contexto\2.2 Herramientas.tex
 INPUT 2. Contexto\2.2 Herramientas.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT 2. Contexto\2.x JiraGPTNext.tex
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT .\images\ejemplo.png
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
+INPUT .\4. Tecnologías\tecnologías.tex
+INPUT .\4. Tecnologías\tecnologías.tex
+OUTPUT 4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.tex
+INPUT .\4. Tecnologías\tecnologías.tex
+INPUT 4. Tecnologías\tecnologías.tex
+INPUT .\4. Tecnologías\4.1 LLMs.tex
+INPUT .\4. Tecnologías\4.1 LLMs.tex
+INPUT 4. Tecnologías\4.1 LLMs.tex
 INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux
@@ -484,6 +473,9 @@ INPUT title.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT 4. Tecnologías\tecnologías.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
@@ -494,21 +486,13 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx1
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbxi10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbxi10.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb

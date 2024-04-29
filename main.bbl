@@ -19,73 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{watson53}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=934408ef92cd6a24beb9d695a987b580}{%
-           family={Watson},
-           familyi={W\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=aefa9aa13b26790480b87d46b56dc0f3}{%
-           family={Crick},
-           familyi={C\bibinitperiod},
-           given={Francis},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{fullhash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{fullhashraw}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{bibnamehash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{authorbibnamehash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{authornamehash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{authorfullhash}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \strng{authorfullhashraw}{7455f0e1167f5696e93fdb0bf0cbb285}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{note}{Notas opcionales}
-      \field{number}{4356}
-      \field{title}{Molecular structure of nucleic acids}
-      \field{volume}{171}
-      \field{year}{1953}
-      \field{pages}{737\bibrangedash 738}
-      \range{pages}{2}
-    \endentry
-    \entry{latex_wikibook}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=d54ba9b3d8bb8b90b7c69f620a293888}{%
-           family={Project},
-           familyi={P\bibinitperiod},
-           given={LaTeX},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{fullhash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{fullhashraw}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{bibnamehash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{authorbibnamehash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{authornamehash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{authorfullhash}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \strng{authorfullhashraw}{d54ba9b3d8bb8b90b7c69f620a293888}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{LaTeX Wikibook}
-      \field{urlday}{18}
-      \field{urlmonth}{2}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://en.wikibooks.org/wiki/LaTeX
-      \endverb
-      \verb{url}
-      \verb https://en.wikibooks.org/wiki/LaTeX
-      \endverb
-    \endentry
     \entry{chacon2014pro}{book}{}{}
       \name{author}{2}{}{%
         {{hash=8f4ee0c97dee95179ce1e79e846dd298}{%
@@ -110,8 +43,8 @@
       \strng{authornamehash}{1764b95256df68c84d8a593fc2dfa143}
       \strng{authorfullhash}{1764b95256df68c84d8a593fc2dfa143}
       \strng{authorfullhashraw}{1764b95256df68c84d8a593fc2dfa143}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Pro git}
