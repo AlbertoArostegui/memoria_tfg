@@ -367,48 +367,20 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\protada.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\01.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\02.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\03.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\04.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
-INPUT .\images\iconos_ods\05.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
+INPUT .\images\iconos_ods\09.png
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT C:\Users\alberto\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -466,6 +438,9 @@ INPUT 4. Tecnologías\tecnologías.tex
 INPUT .\4. Tecnologías\4.1 LLMs.tex
 INPUT .\4. Tecnologías\4.1 LLMs.tex
 INPUT 4. Tecnologías\4.1 LLMs.tex
+INPUT .\4. Tecnologías\4.2 Ontologías.tex
+INPUT .\4. Tecnologías\4.2 Ontologías.tex
+INPUT 4. Tecnologías\4.2 Ontologías.tex
 INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux

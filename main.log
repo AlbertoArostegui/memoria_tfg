@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  29 APR 2024 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  30 APR 2024 14:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -997,7 +997,7 @@ Package biblatex Info: Reference segment=0 on input line 71.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logos/Logo_EHU.jpg, id=46, 1303.87125pt x 532.99126pt>
+<images/logos/Logo_EHU.jpg, id=50, 1303.87125pt x 532.99126pt>
 File: images/logos/Logo_EHU.jpg Graphic file (type jpg)
 <use images/logos/Logo_EHU.jpg>
 Package pdftex.def Info: images/logos/Logo_EHU.jpg  used on input line 6.
@@ -1042,38 +1042,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
-<images/protada.png, id=47, 1281.78876pt x 722.7pt>
-File: images/protada.png Graphic file (type png)
-<use images/protada.png>
-Package pdftex.def Info: images/protada.png  used on input line 37.
-(pdftex.def)             Requested size: 284.51744pt x 227.61862pt.
-<images/iconos_ods/01.png, id=49, 722.7pt x 722.7pt>
-File: images/iconos_ods/01.png Graphic file (type png)
-<use images/iconos_ods/01.png>
-Package pdftex.def Info: images/iconos_ods/01.png  used on input line 45.
-(pdftex.def)             Requested size: 56.90189pt x 56.90189pt.
-<images/iconos_ods/02.png, id=50, 722.7pt x 722.7pt>
-File: images/iconos_ods/02.png Graphic file (type png)
-<use images/iconos_ods/02.png>
-Package pdftex.def Info: images/iconos_ods/02.png  used on input line 48.
-(pdftex.def)             Requested size: 56.90189pt x 56.90189pt.
-<images/iconos_ods/03.png, id=51, 722.7pt x 722.7pt>
-File: images/iconos_ods/03.png Graphic file (type png)
-<use images/iconos_ods/03.png>
-Package pdftex.def Info: images/iconos_ods/03.png  used on input line 51.
-(pdftex.def)             Requested size: 56.90189pt x 56.90189pt.
-<images/iconos_ods/04.png, id=52, 722.7pt x 722.7pt>
-File: images/iconos_ods/04.png Graphic file (type png)
-<use images/iconos_ods/04.png>
-Package pdftex.def Info: images/iconos_ods/04.png  used on input line 54.
-(pdftex.def)             Requested size: 56.90189pt x 56.90189pt.
-<images/iconos_ods/05.png, id=53, 722.7pt x 722.7pt>
-File: images/iconos_ods/05.png Graphic file (type png)
-<use images/iconos_ods/05.png>
-Package pdftex.def Info: images/iconos_ods/05.png  used on input line 57.
+<images/rag.png, id=51, 878.28125pt x 363.3575pt>
+File: images/rag.png Graphic file (type png)
+<use images/rag.png>
+Package pdftex.def Info: images/rag.png  used on input line 37.
+(pdftex.def)             Requested size: 312.97806pt x 170.71706pt.
+<images/iconos_ods/09.png, id=53, 722.7pt x 722.7pt>
+File: images/iconos_ods/09.png Graphic file (type png)
+<use images/iconos_ods/09.png>
+Package pdftex.def Info: images/iconos_ods/09.png  used on input line 45.
 (pdftex.def)             Requested size: 56.90189pt x 56.90189pt.
 
-Overfull \hbox (5.21571pt too wide) in paragraph at lines 77--81
+Overfull \hbox (5.21571pt too wide) in paragraph at lines 65--69
 []   [] 
  []
 
@@ -1081,7 +1061,7 @@ Overfull \hbox (5.21571pt too wide) in paragraph at lines 77--81
 
 
 
-{C:/Users/alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/protada.png> <./images/iconos_ods/01.png> <./images/iconos_ods/02.png> <./images/iconos_ods/03.png> <./images/iconos_ods/04.png> <./images/iconos_ods/05.png> <./images/logos/Logo_EHU.jpg>]) (resumen.tex
+{C:/Users/alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/rag.png> <./images/iconos_ods/09.png> <./images/logos/Logo_EHU.jpg>]) (resumen.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1153,19 +1133,22 @@ LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
  [9]
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [10]
 \openout2 = `"4. Tecnologías/tecnologías.aux"'.
 
  (4. Tecnologías/tecnologías.tex (4. Tecnologías/4.1 LLMs.tex
 Package acronym Info: Label `acro:LLM' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
-)) [10
+) (4. Tecnologías/4.2 Ontologías.tex)) [11
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 90.
 LaTeX Info: Redefining \% on input line 90.
- [11
+ [12
 
 
 ] (main.aux (title.aux)
@@ -1185,16 +1168,16 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 444080E4ADD0BDCB806BFCD8B94A259D;1185.
+(rerunfilecheck)             Checksum: 4218C08EA1E330BCDE4AD74B7DCB0F1A;1296.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32026 strings out of 474423
- 613075 string characters out of 5740774
+ 32012 strings out of 474423
+ 612648 string characters out of 5740774
  1934496 words of memory out of 5000000
- 53835 multiletter control sequences out of 15000+600000
+ 53815 multiletter control sequences out of 15000+600000
  616553 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,87p,729b,2026s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1202,9 +1185,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on main.pdf (12 pages, 1712678 bytes).
+Output written on main.pdf (13 pages, 504798 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
