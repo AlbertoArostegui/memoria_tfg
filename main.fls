@@ -438,9 +438,16 @@ INPUT 4. Tecnologías\tecnologías.tex
 INPUT .\4. Tecnologías\4.1 LLMs.tex
 INPUT .\4. Tecnologías\4.1 LLMs.tex
 INPUT 4. Tecnologías\4.1 LLMs.tex
-INPUT .\4. Tecnologías\4.2 Ontologías.tex
-INPUT .\4. Tecnologías\4.2 Ontologías.tex
-INPUT 4. Tecnologías\4.2 Ontologías.tex
+INPUT .\4. Tecnologías\4.2 Rag.tex
+INPUT .\4. Tecnologías\4.2 Rag.tex
+INPUT 4. Tecnologías\4.2 Rag.tex
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\images\rag.png
+INPUT .\4. Tecnologías\4.3 Ontologías.tex
+INPUT .\4. Tecnologías\4.3 Ontologías.tex
+INPUT 4. Tecnologías\4.3 Ontologías.tex
 INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux
