@@ -72,6 +72,30 @@
       \field{note}{Accessed: 2024-03-30}
       \field{title}{Use advanced search with Jira Query Language (JQL)}
     \endentry
+    \entry{protege}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=70079656133b3884f6c571fd69f37e6f}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={Stanford},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{fullhash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{fullhashraw}{70079656133b3884f6c571fd69f37e6f}
+      \strng{bibnamehash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{authorbibnamehash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{authornamehash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{authorfullhash}{70079656133b3884f6c571fd69f37e6f}
+      \strng{authorfullhashraw}{70079656133b3884f6c571fd69f37e6f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://protege.stanford.edu/}}
+      \field{note}{Accessed: 2024-03-20}
+      \field{title}{Protégé}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

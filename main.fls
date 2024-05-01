@@ -1,6 +1,6 @@
-PWD c:\Users\alberto\Downloads\TFG Alberto Aróstegui
+PWD c:\Users\alberto\Documents\TFG Alberto Aróstegui
 INPUT C:\Users\alberto\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\alberto\Downloads\TFG Alberto Aróstegui\main.tex
+INPUT c:\Users\alberto\Documents\TFG Alberto Aróstegui\main.tex
 OUTPUT main.log
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
