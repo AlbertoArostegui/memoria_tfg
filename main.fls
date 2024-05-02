@@ -294,6 +294,9 @@ INPUT title.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
+INPUT .\3. Planificación\planificación.aux
+INPUT .\3. Planificación\planificación.aux
+INPUT 3. Planificación\planificación.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT 4. Tecnologías\tecnologías.aux
@@ -429,6 +432,18 @@ INPUT 2. Contexto\2.2 Herramientas.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT 2. Contexto\2.x JiraGPTNext.tex
+INPUT .\3. Planificación\planificación.tex
+INPUT .\3. Planificación\planificación.tex
+OUTPUT 3. Planificación\planificación.aux
+INPUT .\3. Planificación\planificación.tex
+INPUT .\3. Planificación\planificación.tex
+INPUT 3. Planificación\planificación.tex
+INPUT .\3. Planificación\3.x Tareas.tex
+INPUT .\3. Planificación\3.x Tareas.tex
+INPUT 3. Planificación\3.x Tareas.tex
+INPUT .\3. Planificación\3.x Presupuesto.tex
+INPUT .\3. Planificación\3.x Presupuesto.tex
+INPUT 3. Planificación\3.x Presupuesto.tex
 INPUT .\4. Tecnologías\tecnologías.tex
 INPUT .\4. Tecnologías\tecnologías.tex
 OUTPUT 4. Tecnologías\tecnologías.aux
@@ -448,6 +463,11 @@ INPUT .\images\rag.png
 INPUT .\4. Tecnologías\4.3 Ontologías.tex
 INPUT .\4. Tecnologías\4.3 Ontologías.tex
 INPUT 4. Tecnologías\4.3 Ontologías.tex
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
 INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux
@@ -455,6 +475,9 @@ INPUT title.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
+INPUT .\3. Planificación\planificación.aux
+INPUT .\3. Planificación\planificación.aux
+INPUT 3. Planificación\planificación.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT 4. Tecnologías\tecnologías.aux
@@ -468,6 +491,8 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx1
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbxi10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbxi10.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
@@ -478,3 +503,5 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss1
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb

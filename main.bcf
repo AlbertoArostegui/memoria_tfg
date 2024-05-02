@@ -2373,8 +2373,10 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">chacon2014pro</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">jiradocs</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">protege</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">attention2017</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">gpt32020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">jiradocs</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">protege</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
