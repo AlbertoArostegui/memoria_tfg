@@ -12,9 +12,11 @@
 \contentsline {subsection}{\numberline {2.2}Presupuesto}{11}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Costes de software}{11}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Costes de mano de obra}{11}{subsubsection.2.2.2}%
-\contentsline {section}{\numberline {3}Tecnologías}{12}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Modelos grandes de lenguaje}{12}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Retrieval Augmented Generation}{12}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Funcionamiento}{13}{subsubsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.3}Ontologías}{13}{subsection.3.3}%
-\contentsline {section}{Referencias}{15}{section*.8}%
+\contentsline {subsubsection}{\numberline {2.2.3}Costes de hardware}{11}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Tecnologías}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Modelos grandes de lenguaje}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Retrieval Augmented Generation}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Funcionamiento}{14}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Ontologías}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Grafos de conocimiento}{15}{subsection.3.4}%
+\contentsline {section}{Referencias}{17}{section*.8}%
