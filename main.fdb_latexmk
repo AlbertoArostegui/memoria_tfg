@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1715161537.00626 "main.bcf" "main.bbl" "main" 1715162732.79005 0
+["biber main"] 1715326232.70844 "main.bcf" "main.bbl" "main" 1715326235.96709 0
   "main.bcf" 1715162732 108063 467f453d086d194fcafee59f82664899 "pdflatex"
-  "referencias.bib" 1715160619 2450 c5e28113fbfdcc3c80175c8cde536a48 ""
+  "referencias.bib" 1715326231 3345 909e0b214c963f5144200060cb1514b8 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1715162731.36875 "c:/Users/alberto/Documents/TFG Alberto Aróstegui/main.tex" "main.pdf" "main" 1715162732.79052 0
+["pdflatex"] 1715162731.36875 "c:/Users/alberto/Documents/TFG Alberto Aróstegui/main.tex" "main.pdf" "main" 1715326235.96721 0
   "2. Contexto/2.1 Gestion de proyectos.tex" 1715162730 1047 6dc58d3fe33e533aa85c7c540dba347a ""
   "2. Contexto/2.2 Herramientas.tex" 1714321744 2465 1e6453f08708089d3c17b944732f4f9a ""
   "2. Contexto/2.x JiraGPTNext.tex" 1714480158 1062 5446454636fd9b318d53d836c6fbc1ba ""
@@ -222,7 +222,7 @@
   "images/logos/Logo_EHU.jpg" 1714321744 167291 041940880dc7a8f9f21d7b0ce2891e86 ""
   "images/rag.png" 1714481247 62168 03e32ab5082c2afef96429000b243946 ""
   "main.aux" 1715162732 2029 1621636bf35495ba2bf63a9d5d272ac4 "pdflatex"
-  "main.bbl" 1715161538 18511 d34b157a604b16893a5c85eaef6e011c "biber main"
+  "main.bbl" 1715326235 18511 d34b157a604b16893a5c85eaef6e011c "biber main"
   "main.lof" 1715162732 189 ad003e306fe87fc92600c22c893735d2 "pdflatex"
   "main.lot" 1715162732 60 4bc77563de10d0d8a2e6ee96a8d7a948 "pdflatex"
   "main.out" 1715162732 2686 9884b8e97082289b6c177bea55d283d2 "pdflatex"
