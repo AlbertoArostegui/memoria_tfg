@@ -297,9 +297,9 @@ INPUT 2. Contexto\contexto.aux
 INPUT .\3. Planificación\planificación.aux
 INPUT .\3. Planificación\planificación.aux
 INPUT 3. Planificación\planificación.aux
-INPUT .\4. Tecnologías\tecnologías.aux
-INPUT .\4. Tecnologías\tecnologías.aux
-INPUT 4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT 4. Tecnologías\tecnologías.aux
 OUTPUT main.aux
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\main.out
@@ -442,18 +442,17 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
-INPUT .\4. Tecnologías\tecnologías.tex
-INPUT .\4. Tecnologías\tecnologías.tex
-OUTPUT 4. Tecnologías\tecnologías.aux
-INPUT .\4. Tecnologías\tecnologías.tex
-INPUT .\4. Tecnologías\tecnologías.tex
-INPUT 4. Tecnologías\tecnologías.tex
-INPUT .\4. Tecnologías\4.1 LLMs.tex
-INPUT .\4. Tecnologías\4.1 LLMs.tex
-INPUT 4. Tecnologías\4.1 LLMs.tex
-INPUT .\4. Tecnologías\4.2 Rag.tex
-INPUT .\4. Tecnologías\4.2 Rag.tex
-INPUT 4. Tecnologías\4.2 Rag.tex
+INPUT .\4. Tecnologías\tecnologías.tex
+OUTPUT 4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.tex
+INPUT .\4. Tecnologías\tecnologías.tex
+INPUT 4. Tecnologías\tecnologías.tex
+INPUT .\4. Tecnologías\4.1 LLMs.tex
+INPUT .\4. Tecnologías\4.1 LLMs.tex
+INPUT 4. Tecnologías\4.1 LLMs.tex
+INPUT .\4. Tecnologías\4.2 Rag.tex
+INPUT .\4. Tecnologías\4.2 Rag.tex
+INPUT 4. Tecnologías\4.2 Rag.tex
 INPUT .\images\rag.png
 INPUT .\images\rag.png
 INPUT .\images\rag.png
@@ -461,9 +460,12 @@ INPUT .\images\rag.png
 INPUT .\images\rag.png
 INPUT .\images\rag.png
 INPUT .\images\rag.png
-INPUT .\4. Tecnologías\4.3 Ontologías.tex
-INPUT .\4. Tecnologías\4.3 Ontologías.tex
-INPUT 4. Tecnologías\4.3 Ontologías.tex
+INPUT .\4. Tecnologías\4.x Embeddings.tex
+INPUT .\4. Tecnologías\4.x Embeddings.tex
+INPUT 4. Tecnologías\4.x Embeddings.tex
+INPUT .\4. Tecnologías\4.3 Ontologías.tex
+INPUT .\4. Tecnologías\4.3 Ontologías.tex
+INPUT 4. Tecnologías\4.3 Ontologías.tex
 INPUT .\4. Tecnologías\4.x Knowledge Graphs.tex
 INPUT .\4. Tecnologías\4.x Knowledge Graphs.tex
 INPUT 4. Tecnologías\4.x Knowledge Graphs.tex
@@ -482,9 +484,9 @@ INPUT 2. Contexto\contexto.aux
 INPUT .\3. Planificación\planificación.aux
 INPUT .\3. Planificación\planificación.aux
 INPUT 3. Planificación\planificación.aux
-INPUT .\4. Tecnologías\tecnologías.aux
-INPUT .\4. Tecnologías\tecnologías.aux
-INPUT 4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT .\4. Tecnologías\tecnologías.aux
+INPUT 4. Tecnologías\tecnologías.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml

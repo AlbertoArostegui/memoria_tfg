@@ -17,6 +17,7 @@
 \contentsline {subsection}{\numberline {3.1}Modelos grandes de lenguaje}{13}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Retrieval Augmented Generation}{13}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Funcionamiento}{14}{subsubsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.3}Ontologías}{14}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Grafos de conocimiento}{15}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Word embeddings}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ontologías}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Grafos de conocimiento}{16}{subsection.4.2}%
 \contentsline {section}{Referencias}{17}{section*.8}%
