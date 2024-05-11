@@ -519,6 +519,94 @@
       \verb https://aclanthology.org/D14-1162
       \endverb
     \endentry
+    \entry{jiragpt}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c1fcb1ab2bf365a94bc7fa7f6729c08d}{%
+           family={Escribano},
+           familyi={E\bibinitperiod},
+           given={Joel\bibnamedelima García},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{fullhash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{fullhashraw}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{bibnamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{authorbibnamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{authornamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{authorfullhash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{authorfullhashraw}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JiraGPT Next}
+      \field{year}{2023}
+    \endentry
+    \entry{datasetHF}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f97e051ede25563be187d18971435f10}{%
+           family={@ManthanKulakarni},
+           familyi={@\bibinitperiod}}}%
+      }
+      \strng{namehash}{f97e051ede25563be187d18971435f10}
+      \strng{fullhash}{f97e051ede25563be187d18971435f10}
+      \strng{fullhashraw}{f97e051ede25563be187d18971435f10}
+      \strng{bibnamehash}{f97e051ede25563be187d18971435f10}
+      \strng{authorbibnamehash}{f97e051ede25563be187d18971435f10}
+      \strng{authornamehash}{f97e051ede25563be187d18971435f10}
+      \strng{authorfullhash}{f97e051ede25563be187d18971435f10}
+      \strng{authorfullhashraw}{f97e051ede25563be187d18971435f10}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: during March 2024}
+      \field{title}{Text2JQL}
+      \verb{urlraw}
+      \verb https://huggingface.co/datasets/ManthanKulakarni/Text2JQL_v2
+      \endverb
+      \verb{url}
+      \verb https://huggingface.co/datasets/ManthanKulakarni/Text2JQL_v2
+      \endverb
+    \endentry
+    \entry{sequeda2023benchmark}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=9d2c4c78dacb7d5c0f840ed22b1fd0c8}{%
+           family={Sequeda},
+           familyi={S\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a487b391a08267ab8dc817b2608e4e43}{%
+           family={Allemang},
+           familyi={A\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod}}}%
+        {{hash=039416b259b86486840f2c9f6ed72aab}{%
+           family={Jacob},
+           familyi={J\bibinitperiod},
+           given={Bryon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{fullhash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{fullhashraw}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{bibnamehash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{authorbibnamehash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{authornamehash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{authorfullhash}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \strng{authorfullhashraw}{ae4912f2a7b16fcc8a3575fd09d2352d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.AI}
+      \field{eprinttype}{arXiv}
+      \field{title}{A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2311.07509
+      \endverb
+    \endentry
     \entry{jiradocs}{online}{}{}
       \name{author}{1}{}{%
         {{hash=a8fd8cd0b6d2cfda939a8ef257e60192}{%
@@ -533,8 +621,8 @@
       \strng{authornamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
       \strng{authorfullhash}{a8fd8cd0b6d2cfda939a8ef257e60192}
       \strng{authorfullhashraw}{a8fd8cd0b6d2cfda939a8ef257e60192}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accessed: 2024-03-30}
@@ -562,8 +650,8 @@
       \strng{authornamehash}{70079656133b3884f6c571fd69f37e6f}
       \strng{authorfullhash}{70079656133b3884f6c571fd69f37e6f}
       \strng{authorfullhashraw}{70079656133b3884f6c571fd69f37e6f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accessed: 2024-03-20}

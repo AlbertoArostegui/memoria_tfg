@@ -2378,8 +2378,11 @@
     <bcf:citekey order="4" intorder="1">gpt32020</bcf:citekey>
     <bcf:citekey order="5" intorder="1">mikolov2013efficient</bcf:citekey>
     <bcf:citekey order="6" intorder="1">pennington2014glove</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">jiradocs</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">protege</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">jiragpt</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">datasetHF</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">sequeda2023benchmark</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">jiradocs</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">protege</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

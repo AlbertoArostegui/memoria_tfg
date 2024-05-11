@@ -1,0 +1,6 @@
+\subsection{Estado inicial}
+Para cualificar el estado inicial del modelo se ha de poner en contexto la técnica utilizada para evaluar la precisión: un \textit{benchmark} de 70 preguntas en el que se relaciona cada una con las incidencias que deberían ser recuperadas por el modelo.
+
+La manera en la que se evalúa es ejecutando el conjunto entero de preguntas y evaluando si el asistente ha recuperado exactamente las incidencias contenidas en el conjunto de datos. Esto se decidió de esta manera ya que puede darse el caso en el que diferentes consultas devuelvan las mismas incidencias, lo que se consideraría correcto, con tal de que esas incidencias respondan a la pregunta del usuario.
+
+En el momento de inicio de este trabajo, el asistente JiraGPT Next oscilaba entre un 45 y un 50\% de precisión en la recuperación de incidencias. Este resultado es fruto de una investigación sobre \textit{prompt engineering} realizada previamente por Joel García~\cite{jiragpt}. El objetivo entonces, es buscar nuevas maneras de mejorar la precisión ofrecida por el modelo.

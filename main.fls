@@ -300,6 +300,9 @@ INPUT 3. Planificación\planificación.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT 4. Tecnologías\tecnologías.aux
+INPUT .\diseño\diseño.aux
+INPUT .\diseño\diseño.aux
+INPUT diseño\diseño.aux
 OUTPUT main.aux
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\main.out
@@ -434,6 +437,13 @@ INPUT 3. Planificación\planificación.tex
 INPUT .\3. Planificación\3.x Tareas.tex
 INPUT .\3. Planificación\3.x Tareas.tex
 INPUT 3. Planificación\3.x Tareas.tex
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
+INPUT .\images\tfg_edt.png
 INPUT .\3. Planificación\3.x Presupuesto.tex
 INPUT .\3. Planificación\3.x Presupuesto.tex
 INPUT 3. Planificación\3.x Presupuesto.tex
@@ -469,6 +479,17 @@ INPUT 4. Tecnologías\4.3 Ontologías.tex
 INPUT .\4. Tecnologías\4.x Knowledge Graphs.tex
 INPUT .\4. Tecnologías\4.x Knowledge Graphs.tex
 INPUT 4. Tecnologías\4.x Knowledge Graphs.tex
+INPUT .\diseño\diseño.tex
+OUTPUT diseño\diseño.aux
+INPUT .\diseño\diseño.tex
+INPUT .\diseño\diseño.tex
+INPUT diseño\diseño.tex
+INPUT .\diseño\estado_inicial.tex
+INPUT .\diseño\estado_inicial.tex
+INPUT diseño\estado_inicial.tex
+INPUT .\diseño\propuestas.tex
+INPUT .\diseño\propuestas.tex
+INPUT diseño\propuestas.tex
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
@@ -487,6 +508,9 @@ INPUT 3. Planificación\planificación.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT .\4. Tecnologías\tecnologías.aux
 INPUT 4. Tecnologías\tecnologías.aux
+INPUT .\diseño\diseño.aux
+INPUT .\diseño\diseño.aux
+INPUT diseño\diseño.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
