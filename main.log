@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  11 MAY 2024 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  14 MAY 2024 09:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,12 +849,12 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
-Package hyperref Info: Option `colorlinks' set `true' on input line 66.
+Package hyperref Info: Option `colorlinks' set `true' on input line 67.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 71.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 72.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux (title.aux)
@@ -865,27 +865,27 @@ LaTeX Info: Redefining \% on input line 15.
  (2. Contexto/contexto.aux) (3. Planificación/planificación.aux) (4. Tecnologías/tecnologías.aux) (diseño/diseño.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
-Package hyperref Info: Link coloring ON on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+Package hyperref Info: Link coloring ON on input line 72.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -960,8 +960,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 71.
-Package biblatex Info: Reference segment=0 on input line 71.
+Package biblatex Info: Reference section=0 on input line 72.
+Package biblatex Info: Reference segment=0 on input line 72.
 \openout2 = `title.aux'.
 
  (title.tex
@@ -997,7 +997,7 @@ Package biblatex Info: Reference segment=0 on input line 71.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logos/Logo_EHU.jpg, id=106, 1303.87125pt x 532.99126pt>
+<images/logos/Logo_EHU.jpg, id=110, 1303.87125pt x 532.99126pt>
 File: images/logos/Logo_EHU.jpg Graphic file (type jpg)
 <use images/logos/Logo_EHU.jpg>
 Package pdftex.def Info: images/logos/Logo_EHU.jpg  used on input line 6.
@@ -1042,7 +1042,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
-<images/iconos_ods/09.png, id=107, 722.7pt x 722.7pt>
+<images/iconos_ods/09.png, id=111, 722.7pt x 722.7pt>
 File: images/iconos_ods/09.png Graphic file (type png)
 <use images/iconos_ods/09.png>
 Package pdftex.def Info: images/iconos_ods/09.png  used on input line 45.
@@ -1116,28 +1116,33 @@ LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [9]))
-LaTeX Info: Redefining \. on input line 85.
-LaTeX Info: Redefining \% on input line 85.
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
  [10]
 \openout2 = `"3. Planificación/planificación.aux"'.
 
  (3. Planificación/planificación.tex (3. Planificación/3.x Tareas.tex
-<images/tfg_edt.png, id=215, 1081.03876pt x 536.0025pt>
+<images/tfg_edt.png, id=220, 1081.03876pt x 536.0025pt>
 File: images/tfg_edt.png Graphic file (type png)
 <use images/tfg_edt.png>
 Package pdftex.def Info: images/tfg_edt.png  used on input line 4.
 (pdftex.def)             Requested size: 418.25368pt x 207.37985pt.
-) (3. Planificación/3.x Presupuesto.tex
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 10--21
+ [] 
+ []
+
+) (3. Planificación/3.x Presupuesto.tex [11
+
+
+
+ <./images/tfg_edt.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [11
-
-
-
- <./images/tfg_edt.png>]))
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
+)))
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
  [12{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 \openout2 = `"4. Tecnologías/tecnologías.aux"'.
 
@@ -1154,7 +1159,7 @@ although it is yet undefined on input line 2.
 
 
 ]
-<images/rag.png, id=248, 878.28125pt x 363.3575pt>
+<images/rag.png, id=253, 878.28125pt x 363.3575pt>
 File: images/rag.png Graphic file (type png)
 <use images/rag.png>
 Package pdftex.def Info: images/rag.png  used on input line 15.
@@ -1166,8 +1171,8 @@ LaTeX Info: Redefining \% on input line 4.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [15]))
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
  [16]
 \openout2 = `diseño/diseño.aux'.
 
@@ -1179,23 +1184,23 @@ although it is yet undefined on input line 2.
 
 
 ]))
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
  [18]
-Overfull \hbox (19.7102pt too wide) in paragraph at lines 91--91
+Overfull \hbox (19.7102pt too wide) in paragraph at lines 92--92
 []\T1/lmr/m/n/12 Frederick P. Brooks. \T1/lmr/m/it/12 The mythi-cal man-month -- Es-says on Software-Engineering\T1/lmr/m/n/12 .
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 90.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 91.
 (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (130.9464pt too wide) in paragraph at lines 91--91
+Overfull \hbox (130.9464pt too wide) in paragraph at lines 92--92
 \T1/lmtt/m/n/12 proceedings . neurips . cc / paper _ files / paper / 2020 / file / 1457c0d6bfcb4967418bfb8ac142f64a -[]
  []
 
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
 [19
 
 
@@ -1216,16 +1221,16 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 57FC07D2A56C3B7704E9C8F1FE9D3509;3255.
+(rerunfilecheck)             Checksum: D9CD3489D5C1FB471BDED9E3E0B28B75;3373.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32311 strings out of 474423
- 621268 string characters out of 5740774
+ 32318 strings out of 474423
+ 621427 string characters out of 5740774
  1939496 words of memory out of 5000000
- 54026 multiletter control sequences out of 15000+600000
+ 54032 multiletter control sequences out of 15000+600000
  620041 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,87p,1092b,2026s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1242,9 +1247,9 @@ pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, re
 pdfTeX warning (dest): name{acro:PLN} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (20 pages, 629813 bytes).
+Output written on main.pdf (20 pages, 631559 bytes).
 PDF statistics:
- 381 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 
