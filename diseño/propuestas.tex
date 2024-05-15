@@ -10,6 +10,16 @@ Durante el inicio de este trabajo se consultaron artículos como \textit{Sequeda
 
 Para crear esta ontología se ha utilizado el software \textit{Protégé}~\cite{protege}, una herramienta de código abierto para la creación de ontologías desarrollada por la Universidad de Stanford. La ontología se ha desarrollado siguiendo el estándar \textit{Web Ontology Language} (OWL), que es un lenguaje de marcado semántico para publicar y compartir ontologías en la web. OWL es desarrollado por el \textit{World Wide Web Consortium} (W3C) y es una extensión de \textit{Resource Description Framework} (RDF).
 
+Durante esta parte, se considera una ejecución del benchmark como \textit{baseline} para comparar los resultados obtenidos con la ontología y sin ella. Esta primera ejecución se realizaría inyectando el archivo entero de la ontología en el prompt, de manera que el modelo pueda acceder a la información de la ontología y utilizarla para generar consultas más precisas.
+
+Esta aproximación podría presentar resultados que, a priori, parecieran prometedores. Sin embargo, de cara al coste de inyectar un prompt tan grande, no es viable en un entorno de producción. Por ello, se propone una recuperación de información de la ontología dado un campo relevante para la pregunta del usuario. El diagrama en la siguiente figura muestra cómo será la interacción entre el modelo y la ontología.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.95\textwidth]{images/rag_ontologia.png}
+    \caption{Diagrama de RAG con ontología}\label{fig:ontologia}
+\end{figure}
+Si bien una ontología es una manera de representar un espacio de conocimiento, la documentación de Jira no presenta una estructura demasiado compleja que representar con la semántica de una ontología. Podría considerarse que, por ende, no es realmente necesario el uso de una ontología para representar las reglas de JQL. Sin embargo, tras lo realizado en este trabajo, no sería complicado utilizar otra ontología que reuniese información más compleja y permitiese explotar la semántica de la ontología para mejorar la generación de consultas JQL.
+
 \subsubsection{Embeddings}
 De igual manera que en el diseño de la ontología, se propone capturar en esta base de datos vectorial la documentación oficial de Jira. Esta base de conocimiento prueba a guardar los embeddings de los diferentes descripciones dentro de la documentación. La información que se ha considerado relevante ha sido cada campo/operador/función y sus respectivos ejemplos. De esta manera, dada una pregunta se podrían obtener los embeddings de las palabras y compararlas con los embeddings de la base de datos, de manera que el modelo obtenga ejemplos de campos relevantes para la pregunta del usuario.
 

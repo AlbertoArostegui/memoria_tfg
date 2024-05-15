@@ -24,5 +24,5 @@
 \contentsline {subsection}{\numberline {4.1}Estado inicial}{17}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Propuestas}{17}{subsection.4.2}%
 \contentsline {subsubsection}{\numberline {4.2.1}Ontología}{18}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Embeddings}{18}{subsubsection.4.2.2}%
-\contentsline {section}{Referencias}{19}{section*.10}%
+\contentsline {subsubsection}{\numberline {4.2.2}Embeddings}{19}{subsubsection.4.2.2}%
+\contentsline {section}{Referencias}{20}{section*.11}%
