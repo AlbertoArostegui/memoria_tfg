@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  15 MAY 2024 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  22 MAY 2024 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,12 +849,12 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
-Package hyperref Info: Option `colorlinks' set `true' on input line 67.
+Package hyperref Info: Option `colorlinks' set `true' on input line 89.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 72.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 94.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux (title.aux)
@@ -862,30 +862,30 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- (2. Contexto/contexto.aux) (3. Planificación/planificación.aux) (4. Tecnologías/tecnologías.aux) (diseño/diseño.aux))
+ (2. Contexto/contexto.aux) (3. Planificación/planificación.aux) (4. Tecnologías/tecnologías.aux) (diseño/diseño.aux) (implementacion/implementacion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
-Package hyperref Info: Link coloring ON on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+Package hyperref Info: Link coloring ON on input line 94.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -960,8 +960,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 72.
-Package biblatex Info: Reference segment=0 on input line 72.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
 \openout2 = `title.aux'.
 
  (title.tex
@@ -997,7 +997,7 @@ Package biblatex Info: Reference segment=0 on input line 72.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logos/Logo_EHU.jpg, id=110, 1303.87125pt x 532.99126pt>
+<images/logos/Logo_EHU.jpg, id=150, 1303.87125pt x 532.99126pt>
 File: images/logos/Logo_EHU.jpg Graphic file (type jpg)
 <use images/logos/Logo_EHU.jpg>
 Package pdftex.def Info: images/logos/Logo_EHU.jpg  used on input line 6.
@@ -1042,7 +1042,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
-<images/iconos_ods/09.png, id=111, 722.7pt x 722.7pt>
+<images/iconos_ods/09.png, id=151, 722.7pt x 722.7pt>
 File: images/iconos_ods/09.png Graphic file (type png)
 <use images/iconos_ods/09.png>
 Package pdftex.def Info: images/iconos_ods/09.png  used on input line 45.
@@ -1072,11 +1072,11 @@ LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-)
+ [4])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [4] (main.lof
+ [5] (main.lof
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1087,7 +1087,7 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [5] (main.lot
+ [6] (main.lot
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1098,52 +1098,56 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [6] (abreviaturas.tex
+ [7] (abreviaturas.tex
 
-LaTeX Warning: Hyper reference `acro:API' on page 7 undefined on input line 3.
+LaTeX Warning: Hyper reference `acro:API' on page 8 undefined on input line 3.
 
 
-LaTeX Warning: Hyper reference `acro:API' on page 7 undefined on input line 3.
+LaTeX Warning: Hyper reference `acro:API' on page 8 undefined on input line 3.
 
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
-[7])
+[8])
 \openout2 = `"2. Contexto/contexto.aux"'.
 
- (2. Contexto/contexto.tex (2. Contexto/2.1 Gestion de proyectos.tex) (2. Contexto/2.2 Herramientas.tex [8
+ (2. Contexto/contexto.tex (2. Contexto/2.1 Gestion de proyectos.tex) (2. Contexto/2.2 Herramientas.tex [9
 
 ]) (2. Contexto/2.x JiraGPTNext.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [9]))
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
- [10]
+ [10]))
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+ [11]
 \openout2 = `"3. Planificación/planificación.aux"'.
 
  (3. Planificación/planificación.tex (3. Planificación/3.x Tareas.tex
-<images/tfg_edt.png, id=222, 1081.03876pt x 536.0025pt>
+<images/tfg_edt.png, id=296, 1081.03876pt x 536.0025pt>
 File: images/tfg_edt.png Graphic file (type png)
 <use images/tfg_edt.png>
 Package pdftex.def Info: images/tfg_edt.png  used on input line 4.
 (pdftex.def)             Requested size: 418.25368pt x 207.37985pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 10--21
- [] 
- []
-
-) (3. Planificación/3.x Presupuesto.tex [11
+ [12
 
 
 
  <./images/tfg_edt.png>]
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [13]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [14]) (3. Planificación/3.x Presupuesto.tex
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [15]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )))
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
- [12{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [16{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 \openout2 = `"4. Tecnologías/tecnologías.aux"'.
 
  (4. Tecnologías/tecnologías.tex (4. Tecnologías/4.1 LLMs.tex
@@ -1154,12 +1158,12 @@ although it is yet undefined on input line 2.
 ) (4. Tecnologías/4.2 Rag.tex
 Package acronym Info: Label `acro:RAG' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
- [13
+ [17
 
 
 
 ]
-<images/rag.png, id=255, 878.28125pt x 363.3575pt>
+<images/rag.png, id=345, 878.28125pt x 363.3575pt>
 File: images/rag.png Graphic file (type png)
 <use images/rag.png>
 Package pdftex.def Info: images/rag.png  used on input line 15.
@@ -1167,59 +1171,87 @@ Package pdftex.def Info: images/rag.png  used on input line 15.
 ) (4. Tecnologías/4.x Embeddings.tex
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [14 <./images/rag.png>]) (4. Tecnologías/4.3 Ontologías.tex) (4. Tecnologías/4.x Knowledge Graphs.tex
+ [18 <./images/rag.png>]) (4. Tecnologías/4.3 Ontologías.tex) (4. Tecnologías/4.x Knowledge Graphs.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [15]))
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
- [16]
+ [19]))
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+ [20]
 \openout2 = `diseño/diseño.aux'.
 
  (diseño/diseño.tex (diseño/estado_inicial.tex) (diseño/propuestas.tex
 Package acronym Info: Label `acro:JQL' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
- [17
+ [21
 
 
 
 ]
-<images/rag_ontologia.png, id=291, 718.685pt x 213.79875pt>
+<images/rag_ontologia.png, id=381, 718.685pt x 213.79875pt>
 File: images/rag_ontologia.png Graphic file (type png)
 <use images/rag_ontologia.png>
-Package pdftex.def Info: images/rag_ontologia.png  used on input line 18.
+Package pdftex.def Info: images/rag_ontologia.png  used on input line 19.
 (pdftex.def)             Requested size: 397.3397pt x 118.20624pt.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
- [18]))
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
- [19 <./images/rag_ontologia.png>]
-Overfull \hbox (19.7102pt too wide) in paragraph at lines 92--92
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [22 <./images/rag_ontologia.png>]
+<images/rag_embeddings.png, id=389, 534.99875pt x 230.8625pt>
+File: images/rag_embeddings.png Graphic file (type png)
+<use images/rag_embeddings.png>
+Package pdftex.def Info: images/rag_embeddings.png  used on input line 33.
+(pdftex.def)             Requested size: 397.3397pt x 171.46613pt.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [23]))
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+ [24 <./images/rag_embeddings.png>]
+\openout2 = `implementacion/implementacion.aux'.
+
+ (implementacion/implementacion.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6.
+ (implementacion/impl_embe.tex) (implementacion/impl_onto.tex [25
+
+
+
+]))
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+ [26]
+Overfull \hbox (19.7102pt too wide) in paragraph at lines 115--115
 []\T1/lmr/m/n/12 Frederick P. Brooks. \T1/lmr/m/it/12 The mythi-cal man-month -- Es-says on Software-Engineering\T1/lmr/m/n/12 .
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 91.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 114.
 (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (130.9464pt too wide) in paragraph at lines 92--92
+Overfull \hbox (130.9464pt too wide) in paragraph at lines 115--115
 \T1/lmtt/m/n/12 proceedings . neurips . cc / paper _ files / paper / 2020 / file / 1457c0d6bfcb4967418bfb8ac142f64a -[]
  []
 
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
-[20
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+[27
 
 
-] (main.aux (title.aux)
+]
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+ [28] (main.aux (title.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 LaTeX Info: Redefining \sptext on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- (2. Contexto/contexto.aux) (3. Planificación/planificación.aux) (4. Tecnologías/tecnologías.aux) (diseño/diseño.aux))
+ (2. Contexto/contexto.aux) (3. Planificación/planificación.aux) (4. Tecnologías/tecnologías.aux) (diseño/diseño.aux) (implementacion/implementacion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1229,19 +1261,19 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 12911C265E19DBD16931E9B0FF74DB2F;3373.
+(rerunfilecheck)             Checksum: A5323165E520B42D12833188B5BA1F81;5288.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32328 strings out of 474423
- 621682 string characters out of 5740774
- 1940496 words of memory out of 5000000
- 54040 multiletter control sequences out of 15000+600000
- 620041 words of font info for 66 fonts, out of 8000000 for 9000
+ 32461 strings out of 474423
+ 625255 string characters out of 5740774
+ 1942496 words of memory out of 5000000
+ 54116 multiletter control sequences out of 15000+600000
+ 636811 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,87p,1092b,2026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,87p,1092b,2401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{acro:JQL} has been referenced but does not exist, replaced by a fixed one
 
@@ -1254,10 +1286,10 @@ pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, re
 
 pdfTeX warning (dest): name{acro:PLN} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (21 pages, 654231 bytes).
+<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (29 pages, 746032 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 530 PDF objects out of 1000 (max. 8388607)
+ 108 named destinations out of 1000 (max. 500000)
+ 331 words of extra memory for PDF output out of 10000 (max. 10000000)
 

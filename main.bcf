@@ -2372,17 +2372,22 @@
     <bcf:datasource type="file" datatype="bibtex">referencias.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Brooks1975</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">chacon2014progit</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">attention2017</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">gpt32020</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">mikolov2013efficient</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">pennington2014glove</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">jiragpt</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">datasetHF</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">sequeda2023benchmark</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">jiradocs</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">protege</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">jiragpt</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Brooks1975</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">chacon2014progit</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">udemy</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">datasetHF</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">attention2017</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">gpt32020</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">mikolov2013efficient</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">pennington2014glove</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">rdfVsPropertyGraph</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">jiragpt</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">datasetHF</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">sequeda2023benchmark</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">jiradocs</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">protege</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">sequeda2023benchmark</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

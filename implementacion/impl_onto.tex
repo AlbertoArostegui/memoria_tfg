@@ -1,0 +1,11 @@
+\subsection{Implementación de RAG: Ontología}
+Como se ha mencionado en el apartado de diseño, se ha construido una ontología desde 0 utilizando la documentación oficial de JIRA para crear consultas JQL. Esta ontología describe los distintos tipos de operadores, campos y funciones que existen en este lenguaje de consulta. Además, se han añadido las relaciones entre estos elementos para que el modelo pueda inferir la información necesaria para responder a las preguntas. La idea detrás de esta ontología es modelar cómo funciona Jira Query Language, para que el modelo cometa menos errores de interpretación y pueda responder de manera más precisa. Se ha desarrollado tras el análisis de la documentación y la realización de consultas con el tutor para describir de manera correcta una ontología, siguiendo la semántica necesaria.
+
+Esta ontología se ha desarrollado utilizando el software Protégé~\cite{protege}, gratuito y de código abierto, desarrollado por la universidad de Stanford. Una vez creada, se puede exportar como archivo RDF, para interactuar con ella desde fuera de Protégé.
+
+\subsubsection{Interacción con el modelo}
+La interacción posible de la ontología con el modelo parte desde la inyección del archivo RDF entero, como describe Sequeda et al.~\cite{sequeda2023benchmark}. Sin embargo, esta aproximación no es viable en un entorno de producción, ya que inyectar un archivo tan grande en el prompt no es eficiente, pero se conserva de baseline. 
+
+Para obtener información relevante de la ontología se ha utilizado un LLM que extrae los campos relevantes dada una pregunta, que son expuestos anteriormente en el prompt, ya que son campos descritos en la ontología que no conoce el modelo. La respuesta del modelo serán los 3 campos más relevantes de entre todos los descritos en el prompt y desde los que se realizará una consulta a la ontología para obtener la información relevante de la misma.
+
+Esta información obtenida consistirá en los campos, operadores, ejemplos, descripción y subclases (de existir) que serán inyectados en el prompt para que el modelo pueda generar una respuesta partiendo de un mayor contexto.
