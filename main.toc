@@ -13,26 +13,29 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Investigación}{13}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Ideas sistemas RAG}{15}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Definición de pruebas}{15}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}Costes de software}{16}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}Costes de mano de obra}{16}{subsubsection.2.1.6}%
-\contentsline {subsubsection}{\numberline {2.1.7}Costes de hardware}{16}{subsubsection.2.1.7}%
-\contentsline {section}{\numberline {3}Tecnologías}{17}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Modelos grandes de lenguaje}{17}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Retrieval Augmented Generation}{17}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Funcionamiento}{18}{subsubsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.3}Word embeddings}{18}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Ontologías}{19}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Grafos de conocimiento}{19}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Diseño}{21}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Estado inicial}{21}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Propuestas}{21}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Ontología}{22}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Embeddings}{23}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Grafos de conocimiento}{24}{subsubsection.4.2.3}%
-\contentsline {section}{\numberline {5}Implementación}{25}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Implementación de RAG: Embeddings}{25}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Extracción de datos}{25}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Interacción con el modelo}{25}{subsubsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.2}Implementación de RAG: Ontología}{26}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Interacción con el modelo}{26}{subsubsection.5.2.1}%
-\contentsline {section}{Referencias}{28}{section*.20}%
+\contentsline {subsubsection}{\numberline {2.1.5}Documentación}{16}{subsubsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.2}Presupuesto}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Costes de software}{17}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Costes de mano de obra}{17}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Costes de hardware}{18}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Gestión de riesgos}{19}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Tecnologías}{21}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Modelos grandes de lenguaje}{21}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Retrieval Augmented Generation}{21}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Funcionamiento}{22}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Word embeddings}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Ontologías}{23}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Grafos de conocimiento}{23}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Diseño}{25}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Estado inicial}{25}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Propuestas}{25}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Ontología}{26}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Embeddings}{27}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Grafos de conocimiento}{28}{subsubsection.4.2.3}%
+\contentsline {section}{\numberline {5}Implementación}{29}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Implementación de RAG: Embeddings}{29}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Extracción de datos}{29}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Interacción con el modelo}{29}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Implementación de RAG: Ontología}{30}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Interacción con el modelo}{30}{subsubsection.5.2.1}%
+\contentsline {section}{Referencias}{32}{section*.26}%

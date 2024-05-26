@@ -1,19 +1,40 @@
-                 subsection{Presupuesto}
-A lo largo de esta subsección se detalla el presupuesto necesario para el estudio transcurrido en este trabajo de fin de grado. Se incluyen los costes de los recursos humanos, los costes de los recursos materiales y los costes de los recursos software.
+\subsection{Presupuesto}
+A lo largo de esta subsección se detalla el presupuesto necesario para el estudio transcurrido en este trabajo de fin de grado. Se incluyen los costes de los recursos humanos, los costes de los recursos materiales y los costes de los recursos software. El proyecto ha tenido una duración de 4 meses, por lo que se ha calculado el coste total en base a este periodo de tiempo.
 
 \subsubsection{Costes de software}
 El estudio de este trabajo se ha realizado con herramientas de software de código abierto en la medida de lo posible, si bien también se ha hecho uso de llamadas de API de OpenAI.
 
 Como editores de código y ontologías, se han utilizado Visual Studio Code y Protégé respectivamente, ambos de código abierto y gratuitos. Para la gestión de versiones se ha utilizado Git, también de código abierto y gratuito.
 
+Durante las 2 primeras semanas del proyecto se realizó un curso de Udemy sobre ChatGPT and LangChain, que tuvo un coste de 14,99€~\footnote{https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/}.
+
 
 \subsubsection{Costes de mano de obra}
 Los costes de mano de obra se han calculado en base a las horas de trabajo invertidas en el proyecto y el salario medio de un ingeniero informático en España, además del coste de dos profesores adjuntos de la Universidad del País Vasco y un tutor de la empresa LKS Next-GobTech.
 En el caso del ingeniero informático, se asume un rol de programador junior, con un salario medio de 21000€ brutos anuales. 
-En el caso del prfesor adjunto, según la página de la UPV/EHU, el salario medio es de 34144€ brutos anuales. 
+En el caso del prfesor adjunto, según la página de la UPV/EHU, el salario medio es de 34144€ brutos anuales~\footnote{https://www.ehu.eus/es/web/gardentasun-ataria/ordainketak}. 
+
+Descontando impuestos y retenciones de los sueldos brutos para el programador junior, 12,20\% de IRPF: \(21000 \times \frac{12.20}{100} \approx 2562\)€ y la aportación de 1333€ a la Seguridad Social, resultaría en un salario neto de 17105€ netos al año.
+
+\begin{center}
+    Coste total programador junior: \(\frac{17105}{12~meses} \times 4 \approx 5701\)€
+\end{center}
+\newpage
+Para el tutor de empresa se ha estimado el salario para un ingeniero informático manager de proyectos, con un salario medio de 42000€ brutos anuales~\cite{glassdoor}. Descontando una aportación de IRPF de 20,14\%: \(42000 \times \frac{20.14}{100} \approx 8463\)€ y una aportación de 2667€ a la Seguridad Social, resultaría en un salario neto de 30872€ netos al año. Con el tutor de empresa se ha estado 3 meses de los 4 de duración.
+
+\begin{center}
+    Coste total tutor de empresa: \(\frac{30872}{12~meses} \times {3~meses} \approx 7718\)€
+\end{center}
+
+En cuanto a los tutores de la universidad, se ha asumido un salario de 34144€ brutos anuales, descontando impuestos y retenciones, 12,20\% de IRPF: \(34144 \times \frac{17.88}{100} \approx 6103\)€ y la aportación de 2168€ a la Seguridad Social, resultaría en un salario neto de 25872€ netos al año. Los tutores han estado disponibles un total de 15 horas al mes para el proyecto.
+\begin{center}
+    Coste total tutores de la universidad: \(\frac{25872}{12~meses} \times \frac{15~horas}{176~horas/mes} \times {4~meses} \times {2~tutores} \approx 1470\)€.
+\end{center}
+
+El coste total de la mano de obra sería la suma de los costes de los tres roles, resultando en 14889€.
 
 \subsubsection{Costes de hardware}
-Para la realización de este trabajo se han utilizado tanto un portátil Lenovo Thinkpad T14, durante la estancia en LKS Next-GobTech, valorado en 900€, como un ordenador de sobremesa montado por partes, con los siguientes componentes:
+Para la realización de este trabajo se han utilizado tanto un portátil Lenovo Thinkpad T14, durante la estancia en LKS Next-GobTech, valorado en 1000€, como un ordenador de sobremesa montado por partes, con los siguientes componentes:
 
 \begin{itemize}
     \item Procesador: AMD Ryzen 7 7800X3D
@@ -23,4 +44,10 @@ Para la realización de este trabajo se han utilizado tanto un portátil Lenovo 
 
 Valorado, en el momento de compra, en 1500€.
 
-La amortización de estos dos equipos se puede calcular en un periodo de 10 años, ya que ambos equipos tienen una vida útil de al menos 10 años a día de hoy.
+La amortización de estos dos equipos se puede calcular en un periodo de 10 años, ya que ambos equipos tienen una vida útil de al menos 10 años a día de hoy al ser equipos de alta gama.
+\newpage
+
+La suma de ambos equipos es de 2500€. Por lo tanto, el coste para un proyecto de 4 meses es el siguiente:
+\begin{center}
+    Coste total hardware: \(\frac{2500}{10~años} \times \frac{4~meses}{12~meses} \approx 83,33\)€
+\end{center}

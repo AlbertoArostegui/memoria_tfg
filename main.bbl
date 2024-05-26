@@ -155,6 +155,33 @@
       \verb https://huggingface.co/datasets/ManthanKulakarni/Text2JQL_v2
       \endverb
     \endentry
+    \entry{glassdoor}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a31869eb7928df122ceb2f81e27d7e85}{%
+           family={Glassdoor},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{fullhash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{fullhashraw}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{bibnamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authorbibnamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authornamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authorfullhash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authorfullhashraw}{a31869eb7928df122ceb2f81e27d7e85}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-03-30}
+      \field{title}{Glassdoor}
+      \verb{urlraw}
+      \verb https://www.glassdoor.es/Sueldos/it-project-manager-sueldo-SRCH_KO0,18.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.es/Sueldos/it-project-manager-sueldo-SRCH_KO0,18.htm
+      \endverb
+    \endentry
     \entry{attention2017}{inproceedings}{}{}
       \name{author}{8}{}{%
         {{hash=7f28e84700536646dd6620a0db07ad09}{%
@@ -250,8 +277,8 @@
       \strng{editornamehash}{7cffda9a379be8eb9063eee4eb0f58b3}
       \strng{editorfullhash}{1564f811a39f09a7400a11284c987926}
       \strng{editorfullhashraw}{1564f811a39f09a7400a11284c987926}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Neural Information Processing Systems}
@@ -465,8 +492,8 @@
       \strng{editornamehash}{1bb757b97fffae621331dd700b5a7ca9}
       \strng{editorfullhash}{01684a8bcecde64514068030e781dc4f}
       \strng{editorfullhashraw}{01684a8bcecde64514068030e781dc4f}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Neural Information Processing Systems}
@@ -513,8 +540,8 @@
       \strng{authornamehash}{d4849f6d57e38d9b9846cfb360e45131}
       \strng{authorfullhash}{f24c60896b6daa69474b40efb61f4e88}
       \strng{authorfullhashraw}{f24c60896b6daa69474b40efb61f4e88}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{cs.CL}
@@ -578,8 +605,8 @@
       \strng{editornamehash}{e2187b98613360816f323b4969a45b54}
       \strng{editorfullhash}{e2187b98613360816f323b4969a45b54}
       \strng{editorfullhashraw}{e2187b98613360816f323b4969a45b54}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing ({EMNLP})}

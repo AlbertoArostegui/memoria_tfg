@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  22 MAY 2024 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  26 MAY 2024 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -997,7 +997,7 @@ Package biblatex Info: Reference segment=0 on input line 94.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logos/Logo_EHU.jpg, id=150, 1303.87125pt x 532.99126pt>
+<images/logos/Logo_EHU.jpg, id=162, 1303.87125pt x 532.99126pt>
 File: images/logos/Logo_EHU.jpg Graphic file (type jpg)
 <use images/logos/Logo_EHU.jpg>
 Package pdftex.def Info: images/logos/Logo_EHU.jpg  used on input line 6.
@@ -1042,7 +1042,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
-<images/iconos_ods/09.png, id=151, 722.7pt x 722.7pt>
+<images/iconos_ods/09.png, id=163, 722.7pt x 722.7pt>
 File: images/iconos_ods/09.png Graphic file (type png)
 <use images/iconos_ods/09.png>
 Package pdftex.def Info: images/iconos_ods/09.png  used on input line 45.
@@ -1122,11 +1122,11 @@ LaTeX Info: Redefining \% on input line 108.
 \openout2 = `"3. Planificación/planificación.aux"'.
 
  (3. Planificación/planificación.tex (3. Planificación/3.x Tareas.tex
-<images/tfg_edt.png, id=296, 1081.03876pt x 536.0025pt>
+<images/tfg_edt.png, id=323, 1080.035pt x 534.99875pt>
 File: images/tfg_edt.png Graphic file (type png)
 <use images/tfg_edt.png>
 Package pdftex.def Info: images/tfg_edt.png  used on input line 4.
-(pdftex.def)             Requested size: 418.25368pt x 207.37985pt.
+(pdftex.def)             Requested size: 418.25368pt x 207.17924pt.
  [12
 
 
@@ -1137,17 +1137,44 @@ LaTeX Info: Redefining \% on input line 62.
  [13]
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
- [14]) (3. Planificación/3.x Presupuesto.tex
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+ [14]
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
  [15]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+ [16]) (3. Planificación/3.x Presupuesto.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)))
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 9.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[][][]\T1/lmr/m/n/10 https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-
+ []
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+[17{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [18]
+
+LaTeX Warning: Command \~ invalid in math mode on input line 52.
+
+) (3. Planificación/riesgos.tex
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [19]))
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
- [16{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+ [20]
 \openout2 = `"4. Tecnologías/tecnologías.aux"'.
 
  (4. Tecnologías/tecnologías.tex (4. Tecnologías/4.1 LLMs.tex
@@ -1158,12 +1185,12 @@ although it is yet undefined on input line 2.
 ) (4. Tecnologías/4.2 Rag.tex
 Package acronym Info: Label `acro:RAG' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
- [17
+ [21
 
 
 
 ]
-<images/rag.png, id=345, 878.28125pt x 363.3575pt>
+<images/rag.png, id=402, 878.28125pt x 363.3575pt>
 File: images/rag.png Graphic file (type png)
 <use images/rag.png>
 Package pdftex.def Info: images/rag.png  used on input line 15.
@@ -1171,59 +1198,52 @@ Package pdftex.def Info: images/rag.png  used on input line 15.
 ) (4. Tecnologías/4.x Embeddings.tex
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [18 <./images/rag.png>]) (4. Tecnologías/4.3 Ontologías.tex) (4. Tecnologías/4.x Knowledge Graphs.tex
+ [22 <./images/rag.png>]) (4. Tecnologías/4.3 Ontologías.tex) (4. Tecnologías/4.x Knowledge Graphs.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [19]))
+ [23]))
 LaTeX Info: Redefining \. on input line 110.
 LaTeX Info: Redefining \% on input line 110.
- [20]
+ [24]
 \openout2 = `diseño/diseño.aux'.
 
  (diseño/diseño.tex (diseño/estado_inicial.tex) (diseño/propuestas.tex
 Package acronym Info: Label `acro:JQL' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
- [21
+ [25
 
 
 
 ]
-<images/rag_ontologia.png, id=381, 718.685pt x 213.79875pt>
+<images/rag_ontologia.png, id=438, 718.685pt x 213.79875pt>
 File: images/rag_ontologia.png Graphic file (type png)
 <use images/rag_ontologia.png>
 Package pdftex.def Info: images/rag_ontologia.png  used on input line 19.
 (pdftex.def)             Requested size: 397.3397pt x 118.20624pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [22 <./images/rag_ontologia.png>]
-<images/rag_embeddings.png, id=389, 534.99875pt x 230.8625pt>
+ [26 <./images/rag_ontologia.png>]
+<images/rag_embeddings.png, id=446, 534.99875pt x 230.8625pt>
 File: images/rag_embeddings.png Graphic file (type png)
 <use images/rag_embeddings.png>
 Package pdftex.def Info: images/rag_embeddings.png  used on input line 33.
 (pdftex.def)             Requested size: 397.3397pt x 171.46613pt.
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
- [23]))
+ [27]))
 LaTeX Info: Redefining \. on input line 111.
 LaTeX Info: Redefining \% on input line 111.
- [24 <./images/rag_embeddings.png>]
+ [28 <./images/rag_embeddings.png>]
 \openout2 = `implementacion/implementacion.aux'.
 
- (implementacion/implementacion.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 6.
- (implementacion/impl_embe.tex) (implementacion/impl_onto.tex [25
+ (implementacion/implementacion.tex (implementacion/impl_embe.tex) (implementacion/impl_onto.tex [29
 
 
 
 ]))
 LaTeX Info: Redefining \. on input line 112.
 LaTeX Info: Redefining \% on input line 112.
- [26]
+ [30]
 Overfull \hbox (19.7102pt too wide) in paragraph at lines 115--115
 []\T1/lmr/m/n/12 Frederick P. Brooks. \T1/lmr/m/it/12 The mythi-cal man-month -- Es-says on Software-Engineering\T1/lmr/m/n/12 .
  []
@@ -1238,13 +1258,13 @@ Overfull \hbox (130.9464pt too wide) in paragraph at lines 115--115
 
 LaTeX Info: Redefining \. on input line 114.
 LaTeX Info: Redefining \% on input line 114.
-[27
+[31
 
 
 ]
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [28] (main.aux (title.aux)
+ [32] (main.aux (title.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1261,19 +1281,19 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A5323165E520B42D12833188B5BA1F81;5288.
+(rerunfilecheck)             Checksum: E32AC21EC13D5BEA596248CBCEF3D68C;5694.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32461 strings out of 474423
- 625255 string characters out of 5740774
+ 32501 strings out of 474423
+ 626122 string characters out of 5740774
  1942496 words of memory out of 5000000
- 54116 multiletter control sequences out of 15000+600000
+ 54134 multiletter control sequences out of 15000+600000
  636811 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,87p,1092b,2401s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,87p,1092b,2409s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{acro:JQL} has been referenced but does not exist, replaced by a fixed one
 
@@ -1286,10 +1306,10 @@ pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, re
 
 pdfTeX warning (dest): name{acro:PLN} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (29 pages, 746032 bytes).
+<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (33 pages, 787749 bytes).
 PDF statistics:
- 530 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
- 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 614 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 355 words of extra memory for PDF output out of 10000 (max. 10000000)
 
