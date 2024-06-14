@@ -94,7 +94,7 @@
 \begin{document}
 \include{title} % Incluimos el título
 \newpage
-\input{resumen} % Incluimos el resumen tri-lingüe
+\input{resumen} % Incluimos el resumen trilingüe
 
 % Índices
 \tableofcontents\thispagestyle{empty}\newpage
@@ -105,11 +105,13 @@
 \addcontentsline{toc}{section}{Abreviaturas}
 \section*{Abreviaturas}
 \input{abreviaturas}
+\include{1. Introduccion/introduccion.tex}
 \include{2. Contexto/contexto}
 \include{3. Planificación/planificación}
 \include{4. Tecnologías/tecnologías.tex}
 \include{diseño/diseño.tex}
 \include{implementacion/implementacion.tex}
+\include{pruebas/pruebas.tex}
 
 \newpage\printbibliography
 \addcontentsline{toc}{section}{Referencias}

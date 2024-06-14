@@ -1,6 +1,7 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Esquema de división del trabajo}}{12}{figure.caption.4}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Esquema de funcionamiento de una arquitectura RAG.}}{22}{figure.caption.24}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Diagrama de RAG con ontología}}{26}{figure.caption.26}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama de RAG con embeddings}}{28}{figure.caption.27}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Esquema de división del trabajo}}{13}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Esquema de funcionamiento de una arquitectura RAG~\blx@tocontentsinit {0}\cite {nvidiaBlog}}}{23}{figure.caption.24}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Diagrama de RAG con ontología}}{27}{figure.caption.26}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama de RAG con embeddings}}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Diagrama de RAG con grafos de conocimiento}}{30}{figure.caption.28}%

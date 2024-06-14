@@ -291,6 +291,9 @@ INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux
 INPUT title.aux
+INPUT .\1. Introduccion\introduccion.aux
+INPUT .\1. Introduccion\introduccion.aux
+INPUT 1. Introduccion\introduccion.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
@@ -306,6 +309,9 @@ INPUT diseño\diseño.aux
 INPUT .\implementacion\implementacion.aux
 INPUT .\implementacion\implementacion.aux
 INPUT implementacion\implementacion.aux
+INPUT .\pruebas\pruebas.aux
+INPUT .\pruebas\pruebas.aux
+INPUT pruebas\pruebas.aux
 OUTPUT main.aux
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\main.out
@@ -414,6 +420,11 @@ INPUT .\abreviaturas.tex
 INPUT .\abreviaturas.tex
 INPUT .\abreviaturas.tex
 INPUT abreviaturas.tex
+INPUT .\1. Introduccion\introduccion.tex
+OUTPUT 1. Introduccion\introduccion.aux
+INPUT .\1. Introduccion\introduccion.tex
+INPUT .\1. Introduccion\introduccion.tex
+INPUT 1. Introduccion\introduccion.tex
 INPUT .\2. Contexto\contexto.tex
 INPUT .\2. Contexto\contexto.tex
 OUTPUT 2. Contexto\contexto.aux
@@ -483,13 +494,13 @@ INPUT 4. Tecnologías\4.1 LLMs.tex
 INPUT .\4. Tecnologías\4.2 Rag.tex
 INPUT .\4. Tecnologías\4.2 Rag.tex
 INPUT 4. Tecnologías\4.2 Rag.tex
-INPUT .\images\rag.png
-INPUT .\images\rag.png
-INPUT .\images\rag.png
-INPUT .\images\rag.png
-INPUT .\images\rag.png
-INPUT .\images\rag.png
-INPUT .\images\rag.png
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
+INPUT .\images\rag.jpg
 INPUT .\4. Tecnologías\4.x Embeddings.tex
 INPUT .\4. Tecnologías\4.x Embeddings.tex
 INPUT 4. Tecnologías\4.x Embeddings.tex
@@ -524,6 +535,13 @@ INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
+INPUT .\images\rag_grafo.png
 INPUT .\implementacion\implementacion.tex
 OUTPUT implementacion\implementacion.aux
 INPUT .\implementacion\implementacion.tex
@@ -535,6 +553,11 @@ INPUT implementacion\impl_embe.tex
 INPUT .\implementacion\impl_onto.tex
 INPUT .\implementacion\impl_onto.tex
 INPUT implementacion\impl_onto.tex
+INPUT .\pruebas\pruebas.tex
+OUTPUT pruebas\pruebas.aux
+INPUT .\pruebas\pruebas.tex
+INPUT .\pruebas\pruebas.tex
+INPUT pruebas\pruebas.tex
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
@@ -544,6 +567,9 @@ INPUT main.aux
 INPUT .\title.aux
 INPUT .\title.aux
 INPUT title.aux
+INPUT .\1. Introduccion\introduccion.aux
+INPUT .\1. Introduccion\introduccion.aux
+INPUT 1. Introduccion\introduccion.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.aux
 INPUT 2. Contexto\contexto.aux
@@ -559,6 +585,9 @@ INPUT diseño\diseño.aux
 INPUT .\implementacion\implementacion.aux
 INPUT .\implementacion\implementacion.aux
 INPUT implementacion\implementacion.aux
+INPUT .\pruebas\pruebas.aux
+INPUT .\pruebas\pruebas.aux
+INPUT pruebas\pruebas.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml

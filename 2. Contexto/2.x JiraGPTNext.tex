@@ -3,6 +3,6 @@ Partiendo del trabajo realizado por Joel García, se dispone de JiraGPT Next com
 
 Tras esta herramienta se encuentra una llamada de API a un LLM que, utilizando una plantilla para guiar al modelo, pedirá que se traduzca la pregunta en lenguaje natural a una consulta JQL que responda a lo que se pide.
 
-La idea detrás de este nuevo trabajo es realizar un estudio de la mejora de precisión obtenida utilizando arquitecturas RAG. Para ello, se propone modificar la estructura que se sigue para la generación de consultas JQL utilizando LangChain y bases de conocimiento de las que recuperar información relevante para la generación de la consulta.
+La idea de este nuevo trabajo es realizar un estudio del potencial cambio en precisión que se puede lograr utilizando técnicas de Retrieval Augmented Generation (RAG), entendiendo precisión como el número de preguntas que el sistema es capaz de responder correctamente. Para ello, se van a proponer tres implementaciones diferentes de una base de conocimiento de la que el modelo pueda aprovechar la información contenida para generar respuestas partiendo de un mayor contexto. 
 
-Con este estudio se pretende observar si las distintas arquitecturas propuestas suponen un cambio significativo en la precisión de las consultas generadas.
+Para estas tres propuestas, se ha hecho un estudio del estado del arte y se han consultado varios artículos que tratan de realizar mejoras similares a las expuestas en este trabajo, logrando inspiración en ellos.
