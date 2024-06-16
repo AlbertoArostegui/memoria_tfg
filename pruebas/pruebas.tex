@@ -8,3 +8,20 @@ Las pruebas han sido realizadas en un entorno JIRA con un proyecto de prueba lla
 En cuanto a los resultados, se utilizará el conjunto de 100 preguntas creado durante la realización del trabajo, que contiene una variedad de preguntas de distinta dificultad y con la intención de cubrir la mayor cantidad de casos posibles, se considerará correcta una respuesta si las incidencias devueltas por la API de Jira con la sentencia JQL generada por el modelo son exactamente las mismas que las esperadas, que serán obtenidas mediante otra llamada a la API de Jira con la sentencia JQL predefinida que corresponde a la pregunta.
 
 Los resultados consistirán en una puntuación del 0 al 100, que indicará el número de preguntas respondidas de manera correcta, además, se intentará analiza el por qué de los fallos en las respuestas, si los hubiera, con la intención de mejorar el modelo de lenguaje a futuro.
+
+\subsection{Resultados}
+Los resultados obtenidos, evaluados tanto para GPT-4o como para GPT-3.5-turbo se muestran a continuación, en dos gráficas distintas, se muestra el estado inicial, que es la ejecución sin ningún sistema de RAG y las tres propuestas de mejora:
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/Resultados_gpt35.png}
+    \caption{Resultados para GPT-3.5-turbo}
+    \label{fig:resultados_gpt35}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/Resultados_gpt4o.png}
+    \caption{Resultados para GPT-4o}
+    \label{fig:resultados_gpt4o}
+\end{figure}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  13 JUN 2024 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  16 JUN 2024 20:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -611,80 +611,98 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen284
 \Gm@layoutvoffset=\dimen285
 \Gm@dimlist=\toks36
- (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+ (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip93
+\LTright=\skip94
+\LTpre=\skip95
+\LTpost=\skip96
+\LTchunksize=\count325
+\LTcapwidth=\dimen286
+\LT@head=\box110
+\LT@firsthead=\box111
+\LT@foot=\box112
+\LT@lastfoot=\box113
+\LT@gbox=\box114
+\LT@cols=\count326
+\LT@rows=\count327
+\c@LT@tables=\count328
+\c@LT@chunks=\count329
+\LT@p@ftn=\toks37
+) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count325
-\float@exts=\toks37
-\float@box=\box110
-\@float@everytoks=\toks38
-\@floatcapt=\box111
+\c@float@type=\count330
+\float@exts=\toks38
+\float@box=\box115
+\@float@everytoks=\toks39
+\@floatcapt=\box116
 ) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count326
+\lrq@indent=\count331
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count327
-\c@listtotal=\count328
-\c@listcount=\count329
-\c@liststart=\count330
-\c@liststop=\count331
-\c@citecount=\count332
-\c@citetotal=\count333
-\c@multicitecount=\count334
-\c@multicitetotal=\count335
-\c@instcount=\count336
-\c@maxnames=\count337
-\c@minnames=\count338
-\c@maxitems=\count339
-\c@minitems=\count340
-\c@citecounter=\count341
-\c@maxcitecounter=\count342
-\c@savedcitecounter=\count343
-\c@uniquelist=\count344
-\c@uniquename=\count345
-\c@refsection=\count346
-\c@refsegment=\count347
-\c@maxextratitle=\count348
-\c@maxextratitleyear=\count349
-\c@maxextraname=\count350
-\c@maxextradate=\count351
-\c@maxextraalpha=\count352
-\c@abbrvpenalty=\count353
-\c@highnamepenalty=\count354
-\c@lownamepenalty=\count355
-\c@maxparens=\count356
-\c@parenlevel=\count357
-\blx@tempcnta=\count358
-\blx@tempcntb=\count359
-\blx@tempcntc=\count360
-\c@blx@maxsection=\count361
-\blx@maxsegment@0=\count362
-\blx@notetype=\count363
-\blx@parenlevel@text=\count364
-\blx@parenlevel@foot=\count365
-\blx@sectionciteorder@0=\count366
-\blx@sectionciteorderinternal@0=\count367
-\blx@entrysetcounter=\count368
-\blx@biblioinstance=\count369
-\labelnumberwidth=\skip93
-\labelalphawidth=\skip94
-\biblabelsep=\skip95
-\bibitemsep=\skip96
-\bibnamesep=\skip97
-\bibinitsep=\skip98
-\bibparsep=\skip99
-\bibhang=\skip100
+\c@tabx@nest=\count332
+\c@listtotal=\count333
+\c@listcount=\count334
+\c@liststart=\count335
+\c@liststop=\count336
+\c@citecount=\count337
+\c@citetotal=\count338
+\c@multicitecount=\count339
+\c@multicitetotal=\count340
+\c@instcount=\count341
+\c@maxnames=\count342
+\c@minnames=\count343
+\c@maxitems=\count344
+\c@minitems=\count345
+\c@citecounter=\count346
+\c@maxcitecounter=\count347
+\c@savedcitecounter=\count348
+\c@uniquelist=\count349
+\c@uniquename=\count350
+\c@refsection=\count351
+\c@refsegment=\count352
+\c@maxextratitle=\count353
+\c@maxextratitleyear=\count354
+\c@maxextraname=\count355
+\c@maxextradate=\count356
+\c@maxextraalpha=\count357
+\c@abbrvpenalty=\count358
+\c@highnamepenalty=\count359
+\c@lownamepenalty=\count360
+\c@maxparens=\count361
+\c@parenlevel=\count362
+\blx@tempcnta=\count363
+\blx@tempcntb=\count364
+\blx@tempcntc=\count365
+\c@blx@maxsection=\count366
+\blx@maxsegment@0=\count367
+\blx@notetype=\count368
+\blx@parenlevel@text=\count369
+\blx@parenlevel@foot=\count370
+\blx@sectionciteorder@0=\count371
+\blx@sectionciteorderinternal@0=\count372
+\blx@entrysetcounter=\count373
+\blx@biblioinstance=\count374
+\labelnumberwidth=\skip97
+\labelalphawidth=\skip98
+\biblabelsep=\skip99
+\bibitemsep=\skip100
+\bibnamesep=\skip101
+\bibinitsep=\skip102
+\bibparsep=\skip103
+\bibhang=\skip104
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count370
-\c@maxcomprange=\count371
-\c@mincompwidth=\count372
+\c@mincomprange=\count375
+\c@maxcomprange=\count376
+\c@mincompwidth=\count377
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -692,88 +710,88 @@ File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count373
-\c@savedafterword=\count374
-\c@annotator=\count375
-\c@savedannotator=\count376
-\c@author=\count377
-\c@savedauthor=\count378
-\c@bookauthor=\count379
-\c@savedbookauthor=\count380
-\c@commentator=\count381
-\c@savedcommentator=\count382
-\c@editor=\count383
-\c@savededitor=\count384
-\c@editora=\count385
-\c@savededitora=\count386
-\c@editorb=\count387
-\c@savededitorb=\count388
-\c@editorc=\count389
-\c@savededitorc=\count390
-\c@foreword=\count391
-\c@savedforeword=\count392
-\c@holder=\count393
-\c@savedholder=\count394
-\c@introduction=\count395
-\c@savedintroduction=\count396
-\c@namea=\count397
-\c@savednamea=\count398
-\c@nameb=\count399
-\c@savednameb=\count400
-\c@namec=\count401
-\c@savednamec=\count402
-\c@translator=\count403
-\c@savedtranslator=\count404
-\c@shortauthor=\count405
-\c@savedshortauthor=\count406
-\c@shorteditor=\count407
-\c@savedshorteditor=\count408
-\c@labelname=\count409
-\c@savedlabelname=\count410
-\c@institution=\count411
-\c@savedinstitution=\count412
-\c@lista=\count413
-\c@savedlista=\count414
-\c@listb=\count415
-\c@savedlistb=\count416
-\c@listc=\count417
-\c@savedlistc=\count418
-\c@listd=\count419
-\c@savedlistd=\count420
-\c@liste=\count421
-\c@savedliste=\count422
-\c@listf=\count423
-\c@savedlistf=\count424
-\c@location=\count425
-\c@savedlocation=\count426
-\c@organization=\count427
-\c@savedorganization=\count428
-\c@origlocation=\count429
-\c@savedoriglocation=\count430
-\c@origpublisher=\count431
-\c@savedorigpublisher=\count432
-\c@publisher=\count433
-\c@savedpublisher=\count434
-\c@language=\count435
-\c@savedlanguage=\count436
-\c@origlanguage=\count437
-\c@savedoriglanguage=\count438
-\c@pageref=\count439
-\c@savedpageref=\count440
-\shorthandwidth=\skip101
-\shortjournalwidth=\skip102
-\shortserieswidth=\skip103
-\shorttitlewidth=\skip104
-\shortauthorwidth=\skip105
-\shorteditorwidth=\skip106
-\locallabelnumberwidth=\skip107
-\locallabelalphawidth=\skip108
-\localshorthandwidth=\skip109
-\localshortjournalwidth=\skip110
-\localshortserieswidth=\skip111
-\localshorttitlewidth=\skip112
-\localshortauthorwidth=\skip113
-\localshorteditorwidth=\skip114
+\c@afterword=\count378
+\c@savedafterword=\count379
+\c@annotator=\count380
+\c@savedannotator=\count381
+\c@author=\count382
+\c@savedauthor=\count383
+\c@bookauthor=\count384
+\c@savedbookauthor=\count385
+\c@commentator=\count386
+\c@savedcommentator=\count387
+\c@editor=\count388
+\c@savededitor=\count389
+\c@editora=\count390
+\c@savededitora=\count391
+\c@editorb=\count392
+\c@savededitorb=\count393
+\c@editorc=\count394
+\c@savededitorc=\count395
+\c@foreword=\count396
+\c@savedforeword=\count397
+\c@holder=\count398
+\c@savedholder=\count399
+\c@introduction=\count400
+\c@savedintroduction=\count401
+\c@namea=\count402
+\c@savednamea=\count403
+\c@nameb=\count404
+\c@savednameb=\count405
+\c@namec=\count406
+\c@savednamec=\count407
+\c@translator=\count408
+\c@savedtranslator=\count409
+\c@shortauthor=\count410
+\c@savedshortauthor=\count411
+\c@shorteditor=\count412
+\c@savedshorteditor=\count413
+\c@labelname=\count414
+\c@savedlabelname=\count415
+\c@institution=\count416
+\c@savedinstitution=\count417
+\c@lista=\count418
+\c@savedlista=\count419
+\c@listb=\count420
+\c@savedlistb=\count421
+\c@listc=\count422
+\c@savedlistc=\count423
+\c@listd=\count424
+\c@savedlistd=\count425
+\c@liste=\count426
+\c@savedliste=\count427
+\c@listf=\count428
+\c@savedlistf=\count429
+\c@location=\count430
+\c@savedlocation=\count431
+\c@organization=\count432
+\c@savedorganization=\count433
+\c@origlocation=\count434
+\c@savedoriglocation=\count435
+\c@origpublisher=\count436
+\c@savedorigpublisher=\count437
+\c@publisher=\count438
+\c@savedpublisher=\count439
+\c@language=\count440
+\c@savedlanguage=\count441
+\c@origlanguage=\count442
+\c@savedoriglanguage=\count443
+\c@pageref=\count444
+\c@savedpageref=\count445
+\shorthandwidth=\skip105
+\shortjournalwidth=\skip106
+\shortserieswidth=\skip107
+\shorttitlewidth=\skip108
+\shortauthorwidth=\skip109
+\shorteditorwidth=\skip110
+\locallabelnumberwidth=\skip111
+\locallabelalphawidth=\skip112
+\localshorthandwidth=\skip113
+\localshortjournalwidth=\skip114
+\localshortserieswidth=\skip115
+\localshorttitlewidth=\skip116
+\localshortauthorwidth=\skip117
+\localshorteditorwidth=\skip118
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -783,19 +801,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count441
-\c@textcitetotal=\count442
-\c@textcitemaxnames=\count443
-\c@biburlbigbreakpenalty=\count444
-\c@biburlbreakpenalty=\count445
-\c@biburlnumpenalty=\count446
-\c@biburlucpenalty=\count447
-\c@biburllcpenalty=\count448
+\c@textcitecount=\count446
+\c@textcitetotal=\count447
+\c@textcitemaxnames=\count448
+\c@biburlbigbreakpenalty=\count449
+\c@biburlbreakpenalty=\count450
+\c@biburlnumpenalty=\count451
+\c@biburlucpenalty=\count452
+\c@biburllcpenalty=\count453
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count449
+\c@smartand=\count454
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -805,8 +823,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count450
-\c@bbx:relatedtotal=\count451
+\c@bbx:relatedcount=\count455
+\c@bbx:relatedtotal=\count456
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -835,8 +853,8 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2024-03-14 L3 programming layer (loader) 
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count452
-\l__pdf_internal_box=\box112
+\l__color_backend_stack_int=\count457
+\l__pdf_internal_box=\box117
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2024-03-14 L3 programming layer (loader) 
@@ -847,14 +865,14 @@ Package: xparse 2024-03-14 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
-Package hyperref Info: Option `colorlinks' set `true' on input line 89.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 90.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 94.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 95.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux (title.aux)
@@ -862,47 +880,47 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- (1. Introduccion/introduccion.aux) (2. Contexto/contexto.aux) (3. Planificaci√≥n/planificaci√≥n.aux) (4. TecnologiÃÅas/tecnologiÃÅas.aux) (dise√±o/dise√±o.aux) (implementacion/implementacion.aux) (pruebas/pruebas.aux))
+ (1. Introduccion/introduccion.aux) (2. Contexto/contexto.aux) (3. Planificaci√≥n/planificaci√≥n.aux) (4. TecnologiÃÅas/tecnologiÃÅas.aux) (dise√±o/dise√±o.aux) (implementacion/implementacion.aux) (pruebas/pruebas.aux) (conclusiones/conclusiones.aux) (anexo/anexo.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
-Package hyperref Info: Link coloring ON on input line 94.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+Package hyperref Info: Link coloring ON on input line 95.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count453
-\scratchdimen=\dimen286
-\scratchbox=\box113
-\nofMPsegments=\count454
-\nofMParguments=\count455
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count456
-\MPscratchDim=\dimen287
-\MPnumerator=\count457
-\makeMPintoPDFobject=\count458
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count458
+\scratchdimen=\dimen287
+\scratchbox=\box118
+\nofMPsegments=\count459
+\nofMParguments=\count460
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count461
+\MPscratchDim=\dimen288
+\MPnumerator=\count462
+\makeMPintoPDFobject=\count463
+\everyMPtoPDFconversion=\toks41
 ) (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -911,6 +929,10 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -960,8 +982,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
+Package biblatex Info: Reference section=0 on input line 95.
+Package biblatex Info: Reference segment=0 on input line 95.
 \openout2 = `title.aux'.
 
  (title.tex
@@ -997,7 +1019,7 @@ Package biblatex Info: Reference segment=0 on input line 94.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logos/Logo_EHU.jpg, id=178, 1303.87125pt x 532.99126pt>
+<images/logos/Logo_EHU.jpg, id=206, 1303.87125pt x 532.99126pt>
 File: images/logos/Logo_EHU.jpg Graphic file (type jpg)
 <use images/logos/Logo_EHU.jpg>
 Package pdftex.def Info: images/logos/Logo_EHU.jpg  used on input line 6.
@@ -1042,7 +1064,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
-<images/iconos_ods/09.png, id=179, 722.7pt x 722.7pt>
+<images/iconos_ods/09.png, id=207, 722.7pt x 722.7pt>
 File: images/iconos_ods/09.png Graphic file (type png)
 <use images/iconos_ods/09.png>
 Package pdftex.def Info: images/iconos_ods/09.png  used on input line 45.
@@ -1123,13 +1145,13 @@ LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [11]))
-LaTeX Info: Redefining \. on input line 109.
-LaTeX Info: Redefining \% on input line 109.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
  [12]
 \openout2 = `"3. Planificaci√≥n/planificaci√≥n.aux"'.
 
  (3. Planificaci√≥n/planificaci√≥n.tex (3. Planificaci√≥n/3.x Tareas.tex
-<images/tfg_edt.png, id=356, 1080.035pt x 534.99875pt>
+<images/tfg_edt.png, id=395, 1080.035pt x 534.99875pt>
 File: images/tfg_edt.png Graphic file (type png)
 <use images/tfg_edt.png>
 Package pdftex.def Info: images/tfg_edt.png  used on input line 4.
@@ -1179,8 +1201,8 @@ LaTeX Warning: Command \~ invalid in math mode on input line 51.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  [20]))
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
  [21]
 \openout2 = `"4. TecnologiÃÅas/tecnologiÃÅas.aux"'.
 
@@ -1197,7 +1219,7 @@ although it is yet undefined on input line 2.
 
 
 ]
-<images/rag.jpg, id=434, 1541.00719pt x 579.66562pt>
+<images/rag.jpg, id=473, 1541.00719pt x 579.66562pt>
 File: images/rag.jpg Graphic file (type jpg)
 <use images/rag.jpg>
 Package pdftex.def Info: images/rag.jpg  used on input line 15.
@@ -1209,8 +1231,8 @@ LaTeX Info: Redefining \% on input line 5.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [24]))
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
  [25]
 \openout2 = `dise√±o/dise√±o.aux'.
 
@@ -1222,7 +1244,7 @@ although it is yet undefined on input line 2.
 
 
 ]
-<images/rag_ontologia.png, id=471, 718.685pt x 213.79875pt>
+<images/rag_ontologia.png, id=510, 718.685pt x 213.79875pt>
 File: images/rag_ontologia.png Graphic file (type png)
 <use images/rag_ontologia.png>
 Package pdftex.def Info: images/rag_ontologia.png  used on input line 18.
@@ -1233,7 +1255,7 @@ LaTeX Info: Redefining \% on input line 22.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [28]
-<images/rag_embeddings.png, id=483, 534.99875pt x 230.8625pt>
+<images/rag_embeddings.png, id=522, 534.99875pt x 230.8625pt>
 File: images/rag_embeddings.png Graphic file (type png)
 <use images/rag_embeddings.png>
 Package pdftex.def Info: images/rag_embeddings.png  used on input line 33.
@@ -1241,14 +1263,14 @@ Package pdftex.def Info: images/rag_embeddings.png  used on input line 33.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
  [29 <./images/rag_embeddings.png>]
-<images/rag_grafo.png, id=489, 718.685pt x 219.82124pt>
+<images/rag_grafo.png, id=528, 718.685pt x 219.82124pt>
 File: images/rag_grafo.png Graphic file (type png)
 <use images/rag_grafo.png>
 Package pdftex.def Info: images/rag_grafo.png  used on input line 45.
 (pdftex.def)             Requested size: 397.3397pt x 121.536pt.
 ))
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
  [30 <./images/rag_grafo.png>]
 \openout2 = `implementacion/implementacion.aux'.
 
@@ -1257,44 +1279,266 @@ LaTeX Info: Redefining \% on input line 112.
 
 
 ]))
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
  [32]
 \openout2 = `pruebas/pruebas.aux'.
 
- (pruebas/pruebas.tex) [33
+ (pruebas/pruebas.tex
+<images/Resultados_gpt35.png, id=553, 570.933pt x 425.6703pt>
+File: images/Resultados_gpt35.png Graphic file (type png)
+<use images/Resultados_gpt35.png>
+Package pdftex.def Info: images/Resultados_gpt35.png  used on input line 17.
+(pdftex.def)             Requested size: 334.60422pt x 249.48051pt.
+ [33
 
 
 
 ]
-Overfull \hbox (19.7102pt too wide) in paragraph at lines 117--117
+<images/Resultados_gpt4o.png, id=558, 570.933pt x 425.6703pt>
+File: images/Resultados_gpt4o.png Graphic file (type png)
+<use images/Resultados_gpt4o.png>
+Package pdftex.def Info: images/Resultados_gpt4o.png  used on input line 24.
+(pdftex.def)             Requested size: 334.60422pt x 249.48051pt.
+)
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [34 <./images/Resultados_gpt35.png> <./images/Resultados_gpt4o.png>]
+\openout2 = `conclusiones/conclusiones.aux'.
+
+ (conclusiones/conclusiones.tex) [35
+
+
+
+]
+\openout2 = `anexo/anexo.aux'.
+
+ (anexo/anexo.tex
+Overfull \hbox (44.53763pt too wide) in alignment at lines 7--11
+ [] [] [] 
+ []
+
+
+Overfull \hbox (44.53763pt too wide) in alignment at lines 11--16
+ [] [] [] 
+ []
+
+
+Overfull \hbox (44.53763pt too wide) in alignment at lines 16--21
+ [] [] [] 
+ []
+
+
+Overfull \hbox (44.53763pt too wide) in alignment at lines 21--24
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 42--43
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 44--45
+[]|\T1/lmr/m/n/12 project = GPT4 AND sta-tus
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 44--45
+\T1/lmr/m/n/12 chan-ged to Re-suel-to DU-RING
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 46--46
+[]|\T1/lmr/m/n/12 MuÈstrame to-das las in-ci-den-cias abier-tas
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 54--55
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 56--57
+[]|\T1/lmr/m/n/12 project = GPT4 AND sta-tus
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 56--57
+\T1/lmr/m/n/12 chan-ged to Ce-rra-do DU-RING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]|\T1/lmr/m/n/12 status CHAN-GED DU-RING
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 66--66
+\T1/lmr/m/n/12 Al-ber-to ArÛs-te-gui Gar-cÌa en el pro-yec-to
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 66--67
+[]|\T1/lmr/m/n/12 reporter = \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 Alberto ArÛs-te-gui
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 86--87
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 88--89
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\T1/lmr/m/n/12 created >= "2023-08-01.[]ND
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\T1/lmr/m/n/12 crea-ted <= "2023-08-31.[]nd
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 98--98
+[]|\T1/lmr/m/n/12 Lista to-dos los tic-kets con la eti-que-ta
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 100--101
+[]|\T1/lmr/m/n/12 project = GPT4 AND sta-tus
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 100--101
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 104--105
+[]|\T1/lmr/m/n/12 project = GPT4 AND sta-tus
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 104--105
+\T1/lmr/m/n/12 chan-ged to Ce-rra-do DU-RING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\T1/lmr/m/n/12 Encuentra to-das las in-ci-den-cias con
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 108--108
+\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 rendimiento\TS1/lmr/m/n/12 ¥ \T1/lmr/m/n/12 en su des-crip-ciÛn en el
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 110--110
+[]|\T1/lmr/m/n/12 Encuentra to-dos los tic-kets mo-vi-dos a
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 110--111
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 116--116
+[]|\T1/lmr/m/n/12 æCu·ntas in-ci-den-cias es-t·n en la fa-se
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 146--147
+[]|\T1/lmr/m/n/12 assignee = .[]lberto ArÛs-te-gui
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 160--160
+[]|\T1/lmr/m/n/12 æQuÈ ini-ci-den-cias ten-go yo asig-na-das en
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 164--165
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]|\T1/lmr/m/n/12 created >= startOfMonth(-1)
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 172--173
+\T1/lmr/m/n/12 RING (\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-01\TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 , \TS1/lmr/m/n/12 ¥\T1/lmr/m/n/12 2023-08-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+[]|\T1/lmr/m/n/12 created >= startOfMonth(-1)
+ []
+
+
+Overfull \hbox (44.53763pt too wide) in alignment at lines 24--227
+ [] [] [] 
+ []
+
+[36
+
+
+
+]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [37]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [38]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [39]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [40]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [41])
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+ [42]
+Overfull \hbox (19.7102pt too wide) in paragraph at lines 121--121
 []\T1/lmr/m/n/12 Frederick P. Brooks. \T1/lmr/m/it/12 The mythi-cal man-month -- Es-says on Software-Engineering\T1/lmr/m/n/12 .
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 116.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 120.
 (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (130.9464pt too wide) in paragraph at lines 117--117
+Overfull \hbox (130.9464pt too wide) in paragraph at lines 121--121
 \T1/lmtt/m/n/12 proceedings . neurips . cc / paper _ files / paper / 2020 / file / 1457c0d6bfcb4967418bfb8ac142f64a -[]
  []
 
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
-[34
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+[43
 
 
 ]
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
- [35] (main.aux (title.aux)
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [44] (main.aux (title.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 LaTeX Info: Redefining \sptext on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- (1. Introduccion/introduccion.aux) (2. Contexto/contexto.aux) (3. Planificaci√≥n/planificaci√≥n.aux) (4. TecnologiÃÅas/tecnologiÃÅas.aux) (dise√±o/dise√±o.aux) (implementacion/implementacion.aux) (pruebas/pruebas.aux))
+ (1. Introduccion/introduccion.aux) (2. Contexto/contexto.aux) (3. Planificaci√≥n/planificaci√≥n.aux) (4. TecnologiÃÅas/tecnologiÃÅas.aux) (dise√±o/dise√±o.aux) (implementacion/implementacion.aux) (pruebas/pruebas.aux) (conclusiones/conclusiones.aux) (anexo/anexo.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1304,19 +1548,19 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A63D9B5A66FCCDC2C7FB5CADC9772C68;6318.
+(rerunfilecheck)             Checksum: E1A4ACBFFC5D449DC5472245BF33678A;7191.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32587 strings out of 474423
- 629093 string characters out of 5740774
- 1942496 words of memory out of 5000000
- 54191 multiletter control sequences out of 15000+600000
- 636811 words of font info for 77 fonts, out of 8000000 for 9000
+ 32854 strings out of 474423
+ 634775 string characters out of 5740774
+ 2060496 words of memory out of 5000000
+ 54414 multiletter control sequences out of 15000+600000
+ 639799 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,87p,1092b,3291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,87p,1110b,3291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{acro:JQL} has been referenced but does not exist, replaced by a fixed one
 
@@ -1329,10 +1573,10 @@ pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, re
 
 pdfTeX warning (dest): name{acro:PLN} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (36 pages, 899001 bytes).
+<C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (45 pages, 989710 bytes).
 PDF statistics:
- 660 PDF objects out of 1000 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
- 392 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 154 named destinations out of 1000 (max. 500000)
+ 458 words of extra memory for PDF output out of 10000 (max. 10000000)
 

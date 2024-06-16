@@ -1,0 +1,229 @@
+\section{Anexo I}
+
+\subsection{Conjunto de preguntas}
+Las 100 preguntas utilizadas para la evauluación de las distintas propuestas de mejora y la consulta JQL que se utiliza para evaluar las incidencias esperadas.
+
+\begin{center}
+    \begin{longtable}{ | p{1cm} | p{8cm} | p{6cm} | }
+        \hline
+        \textbf{ID} & \textbf{Pregunta} & \textbf{Consulta JQL} \\
+        \hline
+        \endfirsthead
+
+        \hline
+        \textbf{ID} & \textbf{Pregunta} & \textbf{Consulta JQL} \\
+        \hline
+        \endhead
+
+        \hline
+        \multicolumn{3}{|r|}{Continúa en la siguiente página} \\
+        \hline
+        \endfoot
+
+        \hline
+        \endlastfoot
+
+        1 & Muestra las incidencias en progreso en GPT4 & status = "En progreso" and project = GPT4 \\
+        \hline
+        2 & Muestra las incidencias en progreso y sus horas acumuladas en GPT4 & status = "En progreso" and project = GPT4 \\
+        \hline
+        3 & Muestra las incidencias que ya estan entregadas a cliente en GPT4 & status = "Entregado" and project = GPT4 \\
+        \hline
+        4 & Muestra las incidencias que se han pasado de horas y por cuánto en GPT4 & workratio > 100 and project = GPT4 \\
+        \hline
+        5 & Muestra las incidencias que deberían acabar en agosto de 2023 en el proyecto GPT4 & due >= "2023-08-01" AND due <= "2023-08-31" \\
+        \hline
+        6 & Muestra las incidencias sin cerrar ni resolver en GPT4 & status not in (Resuelto, Cerrado) and project = GPT4 \\
+        \hline
+        7 & Muestra quién tiene menos carga de trabajo en el proyecto GPT4 & project = GPT4 ORDER BY assignee ASC, updated DESC \\
+        \hline
+        8 & Muestra quién tiene menos carga de trabajo en GPT4 & project = "GPT4" \\
+        \hline
+        9 & Cuántos tickets se han resuelto en agosto de 2023 en el proyecto GPT4? & status changed to Resuelto DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        10 & Cuántos tickets se han resuelto en agosto de 2023 en GPT4 en el proyecto GPT4? & project = GPT4 AND status changed to Resuelto DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        11 & Muéstrame todas las incidencias abiertas asignadas a Alberto Aróstegui García en GPT4 & project = GPT4 AND assignee = ´Alberto Aróstegui García´ AND status = Abierto \\
+        \hline
+        12 & Muéstrame todas las incidencias con estado Abierto asignadas a Alberto Aróstegui García en GPT4 & project = GPT4 AND assignee = ´Alberto Aróstegui García´ AND status = Abierto \\
+        \hline
+        13 & ¿Cuántos tickets sin resolver hay en el proyecto GPT4? & project = GPT4 AND status != Resuelto \\
+        \hline
+        14 & Encuentra las incidencias asignadas a Alberto Aróstegui García en el proyecto GPT4. & project = GPT4 AND assignee = ´Alberto Aróstegui García´ \\
+        \hline
+        15 & ¿Cuántas incidencias se cerraron en agosto de 2023? & status changed to Cerrado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        16 & ¿En el proyecto GPT4 que incidencias fueron cerradas durante agosto de 2023? & project = GPT4 AND status changed to Cerrado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        17 & Muestra todas las incidencias con alta prioridad en el proyecto GPT4 & priority = High and project = GPT4 \\
+        \hline
+        18 & Dame una lista de las incidencias cuyo estado cambio en agosto de 2023 en el proyecto GPT4. & status CHANGED DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        19 & Encuentra todos los tickets con ´base de datos´ en el resumen en el proyecto GPT4. & summary ~ ´base de datos´ and project = GPT4 \\
+        \hline
+        20 & ¿Cuántos tickets están resueltos en el proyecto GPT4? & project = GPT4 AND status = Resuelto \\
+        \hline
+        21 & Muestra todas las incidencias reportadas por Alberto Aróstegui García en el proyecto GPT4 & reporter = ´Alberto Aróstegui García´ and project = GPT4 \\
+        \hline
+        22 & Muestra el progreso de la incidencia con el campo personalizado Custom\_Id con valor GPT4-30 & Custom\_Id ~ GPT4-30 and project = GPT4 \\
+        \hline
+        23 & ¿Cuáles son las incidencias creadas en agosto de 2023 en el proyecto GPT4? & project = GPT4 AND created >= "2023-08-01" AND created <= 2023-08-31 \\
+        \hline
+        24 & ¿Cuáles son las incidencias creadas en agosto de 2023 en el proyecto GPT4? Ordenalas de mayor a menor prioridad & project = GPT4 AND created >= "2023-08-01" AND created <= "2023-08-31" ORDER BY priority DESC \\
+        \hline
+        25 & ¿Cuántos bugs se han reportado en el proyecto GPT4? & issuetype = Bug and project = GPT4 \\
+        \hline
+        26 & Dame todas las incidencias en la fase de ´Resuelto´ del proyecto GPT4. & project = GPT4 AND status = "Resuelto" \\
+        \hline
+        27 & Muéstrame todas las incidencias reabiertas en el proyecto GPT4 & status = Reabierto and project = GPT4 \\
+        \hline
+        28 & Muéstrame todas las incidencias con estado Reabierto" en el proyecto GPT4 & status = Reabierto and project = GPT4 \\
+        \hline
+        29 & Muestra todos los tickets que vencen en agosto de 2023 en el proyecto GPT4. & due >= "2023-08-01" AND due <= "2023-08-31" \\
+        \hline
+        30 & ¿Qué tickets terminan después del 1 de septiembre de 2023 en el proyecto GPT4? & due > "2023-09-01" and project = GPT4 \\
+        \hline
+        31 & Encuentra todas las incidencias movidas a ´Validado´ en agosto de 2023 en el proyecto GPT4 & status changed to Validado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        32 & Dame las incidencias resueltas en agosto de 2023 en el proyecto GPT4 & status changed to Resuelto DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        33 & ¿Cuántos tickets están en fase de ´En Progreso´ en el proyecto GPT4? & status = ´En progreso´ and project = GPT4 \\
+        \hline
+        34 & Lista todos los tickets creados en agosto de 2023 en el proyecto GPT4 & created >= "2023-08-01" AND created <= "2023-08-31" and project = GPT4 \\
+        \hline
+        35 & Muéstrame las incidencias abiertas más antiguas en el proyecto GPT4. & status = Abierto and project = GPT4 ORDER BY created ASC \\
+        \hline
+        36 & Muéstrame las incidencias con estado Abierto" más antiguas en el proyecto GPT4." & status = "Abierto" and project = GPT4 ORDER BY created ASC \\
+        \hline
+        37 & Lista todos los tickets con la etiqueta ´seguridad´ y dame un resumen en el proyecto GPT4. & labels = "seguridad" and project = GPT4 \\
+        \hline
+        38 & ¿Cuántas incidencias se han movido a ´En progreso´ en agosto de 2023 en el proyecto GPT4? & project = GPT4 AND status changed to ´En progreso´ DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        39 & ¿Cuáles son las incidencias de máxima prioridad asignadas a Alberto Aróstegui García en el proyecto GPT4? & project = GPT4 AND assignee = "Alberto Aróstegui García" AND priority = Highest \\
+        \hline
+        40 & Lista todas las incidencias cerradas en agosto de 2023 en el proyecto GPT4 & project = GPT4 AND status changed to Cerrado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        41 & ¿Cuántas incidencias nuevas se han agregado al proyecto GPT4 en agosto de 2023? & project = GPT4 AND created >= "2023-08-01" AND created <= "2023-08-31" \\
+        \hline
+        42 & Encuentra todas las incidencias con ´rendimiento´ en su descripción en el proyecto GPT4. & description ~ rendimiento \\
+        \hline
+        43 & Encuentra todos los tickets movidos a ´Cerrado´ en agosto de 2023 en el proyecto GPT4. & status changed to Cerrado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        44 & Muestra todas las incidencias que están vencidas en el proyecto GPT4 & due < now() and status != Cerrado and project = GPT4 \\
+        \hline
+        45 & Lista todos los tickets en los que alguien ha votado en el proyecto GPT4. & voter is not empty and project = GPT4 \\
+        \hline
+        46 & ¿Cuántas incidencias están en la fase ´Abierto´ en el proyecto GPT4? & project = GPT4 AND status = Abierto \\
+        \hline
+        47 & ¿Cuántas incidencias están abiertas en el proyecto GPT4? & project = GPT4 AND status = Abierto \\
+        \hline
+        48 & Recupera las incidencias que tengan que ver con Gitlab en el proyecto GPT4 & summary ~ "Gitlab" OR description ~ "Gitlab" and project = GPT4  \\
+        \hline
+        49 & Muestra las incidencias sin asignar en el proyecto GPT4 & project = GPT4 AND assignee is EMPTY \\
+        \hline
+        50 & Cuantas incidencias asignadas hay en el proyecto GPT4? & project = GPT4 AND assignee is not EMPTY \\
+        \hline
+        51 & Muestrame las incidencias abiertas en GPT4 & status not in (Resuelto, Cerrado) and project = GPT4 \\
+        \hline
+        52 & Que incidencias de maxima prioridad en GPT4 & project = GPT4 and priority = Highest \\
+        \hline
+        53 & Selecciona las incidencias sin resolver de esta semana en GPT4 & created >= startOfWeek() and status != Resuelto and project = GPT4 \\
+        \hline
+        54 & Muestra todas las incidencias con enlaces externos en GPT4 & attachments is not EMPTY and project = GPT4 \\
+        \hline
+        55 & Selecciona las incidencias que vencen en los proximos 3 dias en GPT4 & due <= endOfDay("+3d") and status != Resuelto and project = GPT4 \\
+        \hline
+        56 & Muestra las incidencias en las que se esta trabajando ahora mismo en GPT4 & status = "En Progreso" and project = GPT4 \\
+        \hline
+        57 & Muestra las incidencias creadas esta semana en GPT4 & project = GPT4 and created >= startOfWeek() \\
+        \hline
+        58 & Muestra las incidencias creadas en los ultimos 7 dias en GPT4 & created >= -7d() and project = GPT4 \\
+        \hline
+        59 & Muestrame las incidencias que vencen el 11 de agosto de 2023 en GPT4 & due = "2023-08-11" \\
+        \hline
+        60 & Dame las incidencias del proyecto GPT4 que contengan etiquetas & project = GPT4 and labels is not EMPTY \\
+        \hline
+        61 & Muestrame las incidencias asignadas a Alberto Aróstegui García que tengan etiquetas en GPT4 & assignee = "Alberto Aróstegui García" and labels is not EMPTY AND project = GPT4 \\
+        \hline
+        62 & Dame las incidencias asignadas a mi en GPT4 que contengan enlaces externos & assignee = currentUser() and attachments is not EMPTY and project = GPT4 \\
+        \hline
+        63 & Dame las incidencias asignadas a mi en GPT4 & assignee = currentUser() and project = GPT4 \\
+        \hline
+        64 & Muestrame las incidencias que estan en un sprint abierto & sprint in openSprints() \\
+        \hline
+        65 & Que incidencias estan en un sprint ya cerrado & sprint in closedSprints() \\
+        \hline
+        66 & ¿Cuáles son los ítems que tienen una fecha de vencimiento entre el 1 de agosto de 2023 y el 31 de agosto de 2023 en GPT4? & due >= "2023-08-01" AND due <= "2023-08-31" and project = GPT4 \\
+        \hline
+        67 & ¿En que proyectos ha votado al menos una persona? & voter is not EMPTY \\
+        \hline
+        68 & ¿Qué inicidencias tengo yo asignadas en GPT4? & assignee = currentUser() and project = GPT4 \\
+        \hline
+        69 & ¿Qué incidencias están resueltas ahora mismo en GPT4? & status = Resuelto and project = GPT4 \\
+        \hline
+        70 & ¿Qué tickets se cerraron durante agosto de 2023? & status changed to Cerrado DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        71 & ¿Qué tickets cambiaron de estado durante agosto de 2023? & status changed DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        72 & ¿Qué incidencias fueron creadas el último mes en GPT4? & created >= startOfMonth(-1) and project = GPT4 \\
+        \hline
+        73 & ¿Cuántas incidencias en el proyecto GPT4 están cerradas pero no resueltas? & status = Cerrado and status != Resuelto and project = GPT4 \\
+        \hline
+        74 & Muestrame las incidencias que se han movido a Resuelto en agosto de 2023 & status changed to Resuelto DURING (´2023-08-01´, ´2023-08-31´) \\
+        \hline
+        75 & Dame las incidencias que han sido actualizadas en las ultimas 24 horas & updated >= -24h() \\
+        \hline
+        76 & ¿Que incidencias vencen hoy en MFM & due <= endOfDay() and project = MFM \\
+        \hline
+        77 & Cuantas incidencias estan abiertas pero no asignadas? & status = Abierto and assignee is EMPTY \\
+        \hline
+        78 & ¿Qué incidencias fueron resueltas en los últimos 30 días en MFM? & status changed to Resuelto DURING (´-30d´, now()) and project = MFM \\
+        \hline
+        79 & ¿Cuántas incidencias se han movido a ´En progreso´ en los últimos 7 días en MFM? & status changed to ´En progreso´ DURING (´-7d´, now()) and project = MFM \\
+        \hline
+        80 & ¿Qué incidencias en MFM están en un sprint y no están asignadas? & sprint in openSprints() and assignee is EMPTY and project = MFM \\
+        \hline
+        81 & ¿Que incidencias tienen enlaces externos? & attachments is not EMPTY \\
+        \hline
+        82 & Lista todas las incidencias que contengan la palabra ´urgente´ en MFM & summary ~ ´urgente´ and project = MFM \\
+        \hline
+        83 & Dame las incidencias de prioridad alta que todavia no estan asigndas & priority = High and assignee is EMPTY \\
+        \hline
+        84 & Muestramen las incidencias cerradas el último trimestre en MFM & status changed to Cerrado DURING (´-3M´, now()) and project = MFM \\
+        \hline
+        85 & Dame las incidencias de baja prioridad que estan en progreso & priority = Low and status = ´En progreso´ \\
+        \hline
+        86 & ¿Qué incidencias tienen un campo personalizado con valor ´GPT4-30´? & Custom\_Id ~ GPT4-30 \\
+        \hline
+        87 & ¿Cuántas incidencias se han creado en los últimos 7 días en MFM? & created >= -7d() and project = MFM \\
+        \hline
+        88 & Muestra las incidencias del proyecto MFM que están marcadas como críticas y aún están abiertas & priority = Highest and status = Abierto and project = MFM \\
+        \hline
+        89 & Dame las incidencias que han cambiado de prioridad & priority CHANGED \\
+        \hline
+        90 & ¿Cuántas incidencias relacionadas con fallos hay en MFM? & issuetype = Bug and project = MFM \\
+        \hline
+        91 & Dame el total de horas registradas en las incidencias tipo Epic de MFM & issuetype = Epic and project = MFM \\
+        \hline
+        92 & ¿Qué incidencias están Resueltas pero aun no se han cerrado? & status = Resuelto and status != Cerrado \\
+        \hline
+        93 & ¿Cuántas incidencias se han creado en el último mes en MFM? & created >= startOfMonth(-1) and project = MFM \\
+        \hline
+        94 & Dame las incidencias que han sido actualizadas en las últimas 24 horas en MFM & updated >= -24h() and project = MFM \\
+        \hline
+        95 & ¿Qué incidencias están ahora mismo validadas en MFM? & status = Validado and project = MFM \\
+        \hline
+        96 & ¿Cuántas incidencias se han movido a ´En progreso´ en los últimos 7 días en MFM? & status changed to ´En progreso´ DURING (´-7d´, now()) and project = MFM \\
+        \hline
+        97 & ¿Qué incidencias en MFM están en un sprint y no están asignadas? & sprint in openSprints() and assignee is EMPTY and project = MFM \\
+        \hline
+        98 & ¿Qué incidencias de baja prioridad están en progreso en MFM? & priority = Low and status = ´En progreso´ and project = MFM \\
+        \hline
+        99 & Dame las incidencias que han cambiado de prioridad en MFM & priority CHANGED and project = MFM \\
+        \hline
+        100 & ¿Cuántas incidencias relacionadas con fallos hay en GPT4? & issuetype = Bug and project = GPT4 \\
+        \hline
+        
+    \end{longtable}
+        
+\end{center}
