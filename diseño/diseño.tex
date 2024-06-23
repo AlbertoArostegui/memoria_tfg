@@ -1,5 +1,13 @@
 \section{Diseño}
-Durante esta sección se hablará del punto de partida del asistente JiraGPT Next y del diseño que se ha propuesto como mejora para la precisión de las consultas generadas. Se presentarán 3 alternativas utilizando arquitecturas RAG, que buscan dotar al modelo de información sobre la generación de consultas JQL.
+En esta sección se describirá el punto de partida del asistente JiraGPT Next y el diseño que se ha propuesto como mejora para la precisión de las consultas generadas. Se presentarán 3 alternativas utilizando arquitecturas RAG, que buscan dotar al modelo de información sobre la generación de consultas JQL.
+
+Para estas tres propuestas, se ha hecho un estudio del estado del arte y se han consultado varios artículos que tratan de realizar mejoras similares a las expuestas en este trabajo, logrando inspiración en ellos. Por lo que, se van a probar 3 bases de conocimiento distintas con las que aumentar el contexto que posee el modelo y buscar una mejora en la precisión de las respuestas. Se va a utilizar una ontología para representar las reglas del lenguaje de consulta JQL, una base de datos vectorial con embeddings de la documentación de JQL y un knowledge graph que contenga los datos de un proyecto de LKS Next-GobTech.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.95\textwidth]{images/diagrama_general.png}
+    \caption{Diagrama de las tres propuestas, simbolizando las 3 bases de conocimiento distintas que van a ser estudiadas.}\label{fig:diagrama_general}
+\end{figure}
 
 \input{diseño/estado_inicial.tex}
 \input{diseño/propuestas.tex}

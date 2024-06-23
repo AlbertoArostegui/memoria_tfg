@@ -1,5 +1,5 @@
 \subsection{Implementación de RAG: Embeddings}
-Esta propuesta consta de una base de datos vectorial que contiene los embeddings de la documentación oficial de JIRA. Como software se ha optado por ChromaDB~\footnote{https://www.trychroma.com/}, una base de datos vectorial de código abierto que permite realizar búsquedas por similitud de vectores que, además, tiene una sencilla implementación con Langchain.
+Esta propuesta consta de una base de datos vectorial que contiene los embeddings de la documentación oficial de JIRA. Como software se ha optado por ChromaDB~\footnote{https://www.trychroma.com/} 0.5.0, una base de datos vectorial de código abierto que permite realizar búsquedas por similitud de vectores que, además, tiene una sencilla implementación con Langchain.
 
 \subsubsection{Extracción de datos}
 Para extraer los datos pertinentes de la documentación oficial de JIRA, se ha construido un \textit{web scraper} que recorre la documentación oficial de JIRA en el lenguaje Python que extrae de las tablas para cada entrada título, descripción y ejemplos. Estos datos se almacenan en un archivo de texto que posteriormente será dividido en diferentes partes para ser procesado por el modelo de embeddings.

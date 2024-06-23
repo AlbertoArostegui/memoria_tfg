@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ex="http://example.org#">
+
+    <!-- Nodo Proyecto -->
+    <rdf:Description rdf:about="http://example.org/proyecto">
+        <rdf:type rdf:resource="http://example.org#Proyecto"/>
+        <ex:hasIncidencia rdf:resource="http://example.org/incidencia"/>
+        <ex:hasPersona rdf:resource="http://example.org/persona"/>
+    </rdf:Description>
+
+    <!-- Nodo Incidencia -->
+    <rdf:Description rdf:about="http://example.org/incidencia">
+        <rdf:type rdf:resource="http://example.org#Incidencia"/>
+    </rdf:Description>
+
+    <!-- Nodo Persona -->
+    <rdf:Description rdf:about="http://example.org/persona">
+        <rdf:type rdf:resource="http://example.org#Persona"/>
+    </rdf:Description>
+
+</rdf:RDF>

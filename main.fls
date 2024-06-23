@@ -435,23 +435,41 @@ OUTPUT 1. Introduccion\introduccion.aux
 INPUT .\1. Introduccion\introduccion.tex
 INPUT .\1. Introduccion\introduccion.tex
 INPUT 1. Introduccion\introduccion.tex
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT .\2. Contexto\contexto.tex
 INPUT .\2. Contexto\contexto.tex
 OUTPUT 2. Contexto\contexto.aux
 INPUT .\2. Contexto\contexto.tex
 INPUT .\2. Contexto\contexto.tex
 INPUT 2. Contexto\contexto.tex
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr7.tfm
 INPUT .\2. Contexto\2.1 Gestion de proyectos.tex
 INPUT .\2. Contexto\2.1 Gestion de proyectos.tex
 INPUT 2. Contexto\2.1 Gestion de proyectos.tex
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT .\2. Contexto\2.2 Herramientas.tex
 INPUT .\2. Contexto\2.2 Herramientas.tex
 INPUT 2. Contexto\2.2 Herramientas.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT .\2. Contexto\2.x JiraGPTNext.tex
 INPUT 2. Contexto\2.x JiraGPTNext.tex
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
+INPUT .\images\Streamlit_inicial.png
 INPUT .\3. Planificación\planificación.tex
 INPUT .\3. Planificación\planificación.tex
 OUTPUT 3. Planificación\planificación.aux
@@ -475,21 +493,11 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr7.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmbx12.tfm
 INPUT .\3. Planificación\riesgos.tex
 INPUT .\3. Planificación\riesgos.tex
 INPUT 3. Planificación\riesgos.tex
@@ -525,12 +533,40 @@ OUTPUT diseño\diseño.aux
 INPUT .\diseño\diseño.tex
 INPUT .\diseño\diseño.tex
 INPUT diseño\diseño.tex
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
+INPUT .\images\diagrama_general.png
 INPUT .\diseño\estado_inicial.tex
 INPUT .\diseño\estado_inicial.tex
 INPUT diseño\estado_inicial.tex
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
+INPUT .\images\diagrama_joel.png
 INPUT .\diseño\propuestas.tex
 INPUT .\diseño\propuestas.tex
 INPUT diseño\propuestas.tex
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\ontologia_visualizacion.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
+INPUT .\images\supports_assignee.png
 INPUT .\images\rag_ontologia.png
 INPUT .\images\rag_ontologia.png
 INPUT .\images\rag_ontologia.png
@@ -538,6 +574,20 @@ INPUT .\images\rag_ontologia.png
 INPUT .\images\rag_ontologia.png
 INPUT .\images\rag_ontologia.png
 INPUT .\images\rag_ontologia.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated1.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
+INPUT .\images\JQL_docs_updated2.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
@@ -545,6 +595,13 @@ INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
 INPUT .\images\rag_embeddings.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
+INPUT .\images\desglose_kg.png
 INPUT .\images\rag_grafo.png
 INPUT .\images\rag_grafo.png
 INPUT .\images\rag_grafo.png
@@ -557,12 +614,21 @@ OUTPUT implementacion\implementacion.aux
 INPUT .\implementacion\implementacion.tex
 INPUT .\implementacion\implementacion.tex
 INPUT implementacion\implementacion.tex
-INPUT .\implementacion\impl_embe.tex
-INPUT .\implementacion\impl_embe.tex
-INPUT implementacion\impl_embe.tex
 INPUT .\implementacion\impl_onto.tex
 INPUT .\implementacion\impl_onto.tex
 INPUT implementacion\impl_onto.tex
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
+INPUT .\implementacion\impl_embe.tex
+INPUT .\implementacion\impl_embe.tex
+INPUT implementacion\impl_embe.tex
+INPUT .\implementacion\impl_kg.tex
+INPUT .\implementacion\impl_kg.tex
+INPUT implementacion\impl_kg.tex
 INPUT .\pruebas\pruebas.tex
 OUTPUT pruebas\pruebas.aux
 INPUT .\pruebas\pruebas.tex
@@ -592,11 +658,7 @@ OUTPUT anexo\anexo.aux
 INPUT .\anexo\anexo.tex
 INPUT .\anexo\anexo.tex
 INPUT anexo\anexo.tex
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
 INPUT main.aux
 INPUT .\title.aux
@@ -649,8 +711,6 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr6.pfb
-INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr6.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
@@ -663,5 +723,7 @@ INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt10.pfb
+INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt10.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
 INPUT C:\Users\alberto\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb

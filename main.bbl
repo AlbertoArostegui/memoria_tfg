@@ -21,26 +21,32 @@
   \datalist[entry]{none/global//global/global/global}
     \entry{jiragpt}{article}{}{}
       \name{author}{1}{}{%
-        {{hash=c1fcb1ab2bf365a94bc7fa7f6729c08d}{%
-           family={Escribano},
-           familyi={E\bibinitperiod},
-           given={Joel\bibnamedelima García},
-           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=13aa3edb1f8d3ebea2fee93924161d6d}{%
+           family={García\bibnamedelima Escribano},
+           familyi={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Joel\bibnamedelima Moisés},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \strng{namehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{fullhash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{fullhashraw}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{bibnamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{authorbibnamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{authornamehash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{authorfullhash}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
-      \strng{authorfullhashraw}{c1fcb1ab2bf365a94bc7fa7f6729c08d}
+      \strng{namehash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{fullhash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{fullhashraw}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{bibnamehash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{authorbibnamehash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{authornamehash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{authorfullhash}{13aa3edb1f8d3ebea2fee93924161d6d}
+      \strng{authorfullhashraw}{13aa3edb1f8d3ebea2fee93924161d6d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{JiraGPT Next}
+      \field{title}{JiraGPT Next:asistente basado en IA para gestión de proyectos}
       \field{year}{2023}
+      \verb{urlraw}
+      \verb https://addi.ehu.es/handle/10810/68412
+      \endverb
+      \verb{url}
+      \verb https://addi.ehu.es/handle/10810/68412
+      \endverb
     \endentry
     \entry{Brooks1975}{book}{}{}
       \name{author}{1}{}{%
@@ -652,33 +658,6 @@
       \endverb
       \verb{url}
       \verb https://aclanthology.org/D14-1162
-      \endverb
-    \endentry
-    \entry{rdfVsPropertyGraph}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=651d1095c9785c3eef052d3536a36fda}{%
-           family={@FrobberOfBits},
-           familyi={@\bibinitperiod}}}%
-      }
-      \strng{namehash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{fullhash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{fullhashraw}{651d1095c9785c3eef052d3536a36fda}
-      \strng{bibnamehash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{authorbibnamehash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{authornamehash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{authorfullhash}{651d1095c9785c3eef052d3536a36fda}
-      \strng{authorfullhashraw}{651d1095c9785c3eef052d3536a36fda}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2023-05-22}
-      \field{title}{Graph databases vs triple stores}
-      \verb{urlraw}
-      \verb https://stackoverflow.com/questions/30166006/graph-databases-vs-triple-stores-when-to-use-which
-      \endverb
-      \verb{url}
-      \verb https://stackoverflow.com/questions/30166006/graph-databases-vs-triple-stores-when-to-use-which
       \endverb
     \endentry
     \entry{sequeda2023benchmark}{misc}{}{}

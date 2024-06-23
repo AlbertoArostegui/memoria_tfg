@@ -1,4 +1,15 @@
 \subsection{Implementación de RAG: Knowledge Graphs}
-La parte de los grafos de conocimiento supone un reto, ya que es uno de los ejes del trabajo que más dudas ha generado. Para crear un grafo de conocimiento de la información de Jira de LKS Next-GobTech se ha utilizado la API de Jira para extraer la información de los proyectos activos y se ha creado un programa en Python que transforma esa información en un grafo. Se ha utilizado la librería RDFlib para la creación del grafo y se ha almacenado en un fichero en formato RDF. Posterior a esto, para realizar consultas al grafo se ha utilizado la librería SPARQLWrapper, que permite realizar consultas SPARQL al grafo RDF.
+ Para crear un grafo de conocimiento de la información de Jira de LKS Next-GobTech se ha utilizado la API de Jira para extraer la información de los proyectos activos y se ha escrito un programa en Python que transforma esa información en un grafo. Se ha utilizado la librería RDFlib\footnote{https://github.com/RDFLib/rdflib} para la creación del grafo y se ha almacenado en un fichero en formato RDF. Posterior a esto, para realizar consultas al grafo se ha utilizado la librería SPARQLWrapper, que permite realizar consultas SPARQL al grafo RDF.
 
-Como se 
+Al igual que en el caso de la ontología, se va a utilizar el modelo de lenguaje para extraer información relevante de la pregunta del usuario, por lo que, dada una pregunta, el modelo devolverá los nodos de los que partir para realizar una consulta SPARQLQ al grafo. Por ejemplo, dada la pregunta `Dame las incidencias en progreso en el proyecto MFM ` el grafo devolvería el nodo MFM, desde el que se podría partir y realizar una consulta SPARQL que devolviese los nodos a los que está conectado este, obteniendo, por ejemplo, las incidencias que tiene asignadas o las que reporta.
+
+La consulta SPARQL desde el nodo MFM devolvería, por ejemplo, un resultado similar a este:
+\begin{small}
+\begin{verbatim}
+s: http://vocab.lksnext.com/jira/MFM, 
+p: http://www.w3.org/1999/02/22-rdf-syntax-ns#type, 
+o: http://vocab.lksnext.com/jira/Project
+\end{verbatim}
+\end{small}
+
+Con esto, el grafo puede inferir el tipo de estructura que se sigue en el grafo y, por tanto, partir de un mayor contexto para generar las conultas JQL.

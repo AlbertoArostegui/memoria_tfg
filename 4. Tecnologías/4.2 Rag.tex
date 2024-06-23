@@ -4,15 +4,15 @@ Se conoce como \aclink{RAG} a la arquitectura que combina la recuperación de in
 Esta arquitectura es especialmente útil cuando se trabaja con modelos de lenguaje grandes, ya que mejora el problema de las alucinaciones. En lugar de generar respuestas en base al conocimiento del que disponen durante el entrenamiento, que puede dar resultados erróneos, el modelo puede acceder a bases de conocimiento factual con las que puede generar respuestas más precisas y acordes al contexto.
 
 \subsubsection{Funcionamiento}
-El funcionamiento típico de esta arquitectura consta de un flujo dividido en dos partes principales, la recuperación de contexto y la generación de respuestas, que se explicarán brevemente a continuación:
+El funcionamiento típico de esta arquitectura consta de un flujo dividido en dos partes principales, la recuperación de contexto y la generación de respuestas, que se explicarán brevemente a continuación.
 
-Durante la recuperación de contexto se consulta en una base de conocimiento, que podría ser una base de datos vectorial, un grafo de conocimiento o una ontología, entre otros. Para hacer una consulta, se ha de contrastar la pregunta que un usuario haga con la información contenida, para obtener la información más relevante posible. Esta tarea requiere gran atención ya que es crucial de cara al desempeño que vaya a lograr el sistema.
+Durante la recuperación de contexto se consulta en una base de conocimiento, que podría ser una base de datos vectorial, un knowledge graph o una ontología, entre otros. Para hacer una consulta, se ha de contrastar la pregunta que un usuario haga con la información contenida, para obtener la información más relevante posible y que proporcione el mejor contexto para la generación de respuestas. El desarrollo óptimo de esta parte es crucial de cara al rendimiento del sistema, ya que una mala recuperación de información puede llevar a respuestas incorrectas o irrelevantes.
 
 Una vez se ha recuperado la información, se pasa a la generación de respuestas. En esta etapa, se utiliza la información recuperada junto con la pregunta inicial para guiar al modelo de lenguaje en la generación de respuestas. De esta manera, el modelo puede generar respuestas más precisas y acordes al contexto proporcionado.
 
 \begin{figure}[!h]
     \centering
     \includegraphics[width=0.8\textwidth]{images/rag.jpg}
-    \caption{Esquema de funcionamiento de una arquitectura RAG~\cite{nvidiaBlog}}
+    \caption{Esquema de funcionamiento de una arquitectura RAG~\cite{nvidiaBlog}.}
     \label{fig:rag}
 \end{figure}
