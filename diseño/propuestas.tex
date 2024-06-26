@@ -8,14 +8,14 @@ A continuación, se describirán las distintas alternativas propuestas para mejo
 \subsubsection{Ontología}
 Durante el inicio de este trabajo se consultaron artículos como \textit{Sequeda et al.}~\cite{sequeda2023benchmark}, que exploraban la posibilidad de utilizar ontologías en el prompt para mejorar la interpretación de los datos y la generación de consultas SQL, logrando resultados prometedores. Partiendo de esta idea, se propone crear una ontología que represente las reglas que existen en las consultas JQL. La información que se pretende representar en la ontología se ha extraído directamente de la documentación oficial de JIRA, brindada por Atlassian, donde se detallan las reglas que se deben seguir para la creación de consultas JQL~\cite{jiradocs}.
 
-En la siguiente figura se muestra una visualización de la ontología y las diferentes jerarquías que existen.
+En la figura \ref{fig:diagrama_ontologia} se muestra una visualización de la ontología y las diferentes jerarquías que existen.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.95\textwidth]{images/ontologia_visualizacion.png}
-    \caption{Ontología representativa de JQL y Jira}\label{fig:ontologia}
+    \caption{Ontología representativa de JQL y Jira}\label{fig:diagrama_ontologia}
 \end{figure}
 
-Se ha decidido hacer la ontología de esta manera para tratar de representar todas las reglas de JQL aprovechando la semántica de una ontología y la estructura de jerarquía de Jira. Entre las distintas clases, que representan campos, operadores, estados y prioridades, también existen reglas que indican si son compatibles en una consulta, sin embargo, al plasmar la ontología en un diagrama como este no se puede apreciar la semántica de las relaciones. Por ejemplo, la siguiente figura muestra las reglas del campo `Assignee`, indicando que operadores son soportados por este campo, lo cual en la ontología se describe para todos los campos.
+Se ha decidido hacer la ontología de esta manera para tratar de representar todas las reglas de JQL aprovechando la semántica de una ontología y la estructura de jerarquía de Jira. Entre las distintas clases, que representan campos, operadores, estados y prioridades, también existen reglas que indican si son compatibles en una consulta, sin embargo, al plasmar la ontología en un diagrama como este no se puede apreciar la semántica de las relaciones. Por ejemplo, la siguiente figura muestra las reglas del campo `Assignee`, indicando qué operadores son soportados por este campo, lo cual en la ontología se describe para todos los campos.
 
 \begin{figure}[H]
     \centering
@@ -24,7 +24,7 @@ Se ha decidido hacer la ontología de esta manera para tratar de representar tod
 \end{figure}
 
 
-La interacción con la ontología representa un reto, ya que una vez definida la ontología, interactuar con ella de manera que el modelo comprenda lo que se representa es complejo. Se ha optado por utilizar el mismo modelo de lenguaje para buscar los posibles campos relevantes dada una pregunta. Por ejemplo, para la pregunta `¿Qué incidencias tiene asignadas Alberto Aróstegui? `, se envía al modelo para que responda indicando qué campos son relevantes para esa pregunta, utilizando una plantilla, adjunta en el anexo I, en la que se le exponen todos los campos que hemos descrito en la ontología, el modelo debería responder con el campo Assignee, que es el campo descrito en la ontología que mejor responde a esa pregunta en su respectiva consulta JQL. Una vez se tienen estos campos, se puede consultar la ontología para obtener toda la información que se represente y que sea relevante para la pregunta, como las subclases que tiene, las restricciones que existen con otros campos u operadores o comentarios que se expongan en la ontología sobre ese campo. El siguiente diagrama muestra cómo es el flujo del sistema.
+La interacción con la ontología representa un reto, ya que una vez definida la ontología, interactuar con ella de manera que el modelo comprenda lo que se representa es complejo. Se ha optado por utilizar el mismo modelo de lenguaje para buscar los posibles campos relevantes dada una pregunta. Por ejemplo, para la pregunta '¿Qué incidencias tiene asignadas Alberto Aróstegui?', se envía al modelo para que responda indicando qué campos son relevantes para esa pregunta, utilizando una plantilla, adjunta en el anexo I, en la que se le exponen todos los campos que hemos descrito en la ontología, el modelo debería responder con el campo Assignee, que es el campo descrito en la ontología que mejor responde a esa pregunta en su respectiva consulta JQL. Una vez se tienen estos campos, se puede consultar la ontología para obtener toda la información que se represente y que sea relevante para la pregunta, como las subclases que tiene, las restricciones que existen con otros campos u operadores o comentarios que se expongan en la ontología sobre ese campo. El siguiente diagrama muestra cómo es el flujo del sistema.
 
 \begin{figure}[H]
     \centering
@@ -34,7 +34,7 @@ La interacción con la ontología representa un reto, ya que una vez definida la
 
 
 \subsubsection{Embeddings}
-De igual manera que en el diseño de la ontología, se propone capturar la documentación oficial de JIRA en esta base de datos vectorial. Esta base de conocimiento almacena los embeddings de los diferentes descripciones dentro de la documentación. La información que se ha considerado relevante ha sido cada campo/operador/función y sus respectivos ejemplos. De esta manera, dada una pregunta se podrían obtener los embeddings de las palabras y compararlas con los embeddings de la base de datos, de manera que el modelo obtenga ejemplos de campos relevantes para la pregunta del usuario. Las siguientes figuras, extraídas directamente la documentación oficial de Jira, describen un campo JQL y ofrecen ejemplos de uso.
+De igual manera que en el diseño de la ontología, se propone capturar la documentación oficial de JIRA en esta base de datos vectorial. Esta base de conocimiento almacena los embeddings de los diferentes descripciones dentro de la documentación. La información que se ha considerado relevante ha sido cada campo/operador/función y sus respectivos ejemplos. De esta manera, dada una pregunta se podrían obtener los embeddings de las palabras y compararlas con los embeddings de la base de datos, de manera que el modelo obtenga ejemplos de campos relevantes para la pregunta del usuario. Las figuras \ref{fig:field} y \ref{fig:examples}, extraídas directamente la documentación oficial de Jira, describen un campo JQL y ofrecen ejemplos de uso.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.95\textwidth]{images/JQL_docs_updated1.png}
@@ -57,14 +57,14 @@ Teniendo la pregunta del usuario, se ha de traducir al inglés, ya que la docume
 \end{figure}
 
 \subsubsection{Knowledge Graphs}
-Como última propuesta para el trabajo, se ha planteado el uso de knowledge graphs para tratar de guiar al modelo en la estructura de la información contenida en la plataforma JIRA de LKS Next-GobTech. La idea detrás de esta propuesta es que, dada la información de Jira en forma de grafo, el modelo podría ser capaz de inferir cómo es la estructura de información de la plataforma Jira de LKS Next-GobTech y generar respuestas que sean más acordes a lo que se busca. Para esto, se ha de crear un knowledge graph que contenga la información de Jira de cada proyecto que tenga activo LKS Next-GobTech, por lo que se ha de crear un programa que sea capaz de transformar esa información en un grafo y se pueda ejecutar de manera periódica, con el fin de que el grafo esté actualizado con la información real que se almacena en Jira. Cada proyecto tendrá su grafo y el programa que crea el grafo a partir de la información de la API debería ser ejecutado periódicamente para mantener la información actualizada.
+Como última propuesta para el trabajo, se ha planteado el uso de Knowledge Graphs para tratar de guiar al modelo en la estructura de la información contenida en la plataforma JIRA de LKS Next-GobTech. La idea detrás de esta propuesta es que, dada la información de Jira en forma de grafo, el modelo podría ser capaz de inferir cómo es la estructura de información de la plataforma Jira de LKS Next-GobTech y generar respuestas que sean más acordes a lo que se busca. Para esto, se ha de crear un Knowledge Graph que contenga la información de Jira de cada proyecto que tenga activo LKS Next-GobTech, por lo que se ha de crear un programa que sea capaz de transformar esa información en un grafo y se pueda ejecutar de manera periódica, con el fin de que el grafo esté actualizado con la información real que se almacena en Jira. Cada proyecto tendrá su grafo y el programa que crea el grafo a partir de la información de la API debería ser ejecutado periódicamente para mantener la información actualizada.
 
 En la figura \ref{fig:desglose_kg} se puede apreciar el desglose de una incidencia representada en el grafo para el proyecto `MFM`, con Arkaitz Carbajo como autor (Reporter) y una persona cualquiera asignada a esta tarea. Además, se puede ver que es una tarea de tipo Tarea (No un bug o un error) y es de tipo `Issue` al ser una incidencia, como todas las demás. Se puede ver que su estado actual es `Abierto`, además, el nodo `MFM-35` contiene como informacion literal las fechas de creación y vencimiento de esta tarea.
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.95\textwidth]{images/desglose_kg.png}
-    \caption{Knowledge graph para el proyecto MFM, diagrama en GraphDB}\label{fig:desglose_kg}
+    \caption{Knowledge Graph para el proyecto MFM, diagrama en GraphDB}\label{fig:desglose_kg}
 \end{figure}
 
 El flujo sería el representado en la figura \ref{fig:kg}, donde se muestra cómo, dada una pregunta de un usuario, se extrae información del knowledge graph que se inyectaría en el prompt para que el modelo pueda generar una respuesta con más contexto.
