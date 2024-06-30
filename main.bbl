@@ -509,10 +509,10 @@
       \field{pages}{1877\bibrangedash 1901}
       \range{pages}{25}
       \verb{urlraw}
-      \verb https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
+      \verb https://proceedings.neurips.cc/paper_files/paper/2020/ file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
       \endverb
       \verb{url}
-      \verb https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
+      \verb https://proceedings.neurips.cc/paper_files/paper/2020/%20file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
       \endverb
     \endentry
     \entry{nvidiaBlog}{online}{}{}

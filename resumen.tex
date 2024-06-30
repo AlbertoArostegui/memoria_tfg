@@ -1,29 +1,33 @@
 \begin{itshape}
     \textbf{Resumen:} \\
-        Este proyecto consiste en la realización de un estudio que evalúe la potencial mejora de precisión en las respuestas de un LLM implementando técnicas de RAG. Con tal de mejorar la experiencia de usuario dentro de la aplicación para gestión de proyectos Jira, se dispone que una herramienta que hace uso de LLMs para generar consultas JQL. Durante este trabajo se hará un estudio que buscará mejorar la precisión de estas respuestas haciendo uso de bases de conocimiento para aportar contexto al modelo. Se van a a implementar una ontología, una base de datos vetorial con embeddings y un Knowledge Graph.
+    Este trabajo presenta un estudio de técnicas para mejorar la experiencia de usuario en la gestión de proyectos. Se utiliza como base Jira, una de las herramientas más usadas con este fin y que, aunque presenta una interfaz de usuario intuitiva, tiene limitaciones para obtener datos complejos. Para salvar esta limitación, Jira ofrece Jira Query Language (JQL), un lenguaje de consultas que permite obtener datos con mucha mayor precisión, pero que presenta complejidades en su uso. 
 
-        Con tal de evaluar la precisión obtenida con cada una de las propuestas se ha creado un benchmark que evalúe la respuesta del modelo para cada pregunta,
+    Para salvar esta limitación, este trabajo plantea aplicar técnicas de Generación Aumentada por Recuperación (GAR) para crear un interfaz que esconda las complejidades de JQL al gestor de proyectos. Se plantea un estudio 3 técnicas de GAR (Ontologías, Embeddings y Grafos de Conocimiento) combinadas con Modelos Grandes de Lenguaje. Se presenta una evaluación realizada con 4 proyectos Jira proporcionados por la empresa LKS Next-GobTech y una batería de 100 preguntas. 
 
     
     \textbf{Palabras Clave:} RAG, LLM, Jira, JQL, Ontología, Knowledge Graph, Embeddings
 \end{itshape}
-\newpage
 
 \begin{itshape}
     \textbf{Laburpena:} \\
-    Euskera
+    Lan honek proiektuen kudeaketa esparruan erabiltzaileen esperientzia hobetzeko tekniken azterketa bat aurkezten du. Oinarri bezala Jira erabiltzen da, helburu honetarako gehien erabiltzen den tresnetako bat. Honek, erabiltzaile-interfaze intuitibo bat izan arren, datu konplexuak lortzeko mugak ditu. Muga hauek saihesteko, Jira-k Jira Query Language (JQL) eskaintzen du: datuak zehaztasun handiagoarekin lortzeko aukera ematen duen kontsulta-lengoaia, baina erabiltzeko konplexutasunak dituena.
 
+    Egoera hau hobetu nahian, lan honek Berreskurapenaren bidez Handitutako Sorkuntza (BHS) teknikak aplikatzea proposatzen du. Hauek JQL-ren konplexutasunak ezkutatzen dituen interfaze bat sortzeko oinarri izan daitezke.
+    Lan honetan 3 BHS teknika aztertzen dira (Ontologiak, Embedding-ak eta Ezagutza Grafoak), Hizkuntza Eredu Handiekin batera erabiltzen direnak. Tekniken ebaluazioa LKS Next-GobTech enpresak emandako 4 Jira proiektuekin eta 100 galderako bateria batekin egiten da.
     
-    \textbf{Gako-hitzak:}
+    \textbf{Gako-hitzak:} BHS, HEH, Jira, JQL, Ontologiak, Ezagutza Grafoak, Embedding-ak
 \end{itshape}
-\newpage
 
-\newpage
+
 
 \begin{itshape}
     \textbf{Abstract:} \\
-    English
+    
+    This work presents a study of techniques to improve the user experience in project management. Jira, one of the most widely used tools for this purpose, is used as a base. Although Jira features an intuitive user interface, it has limitations in obtaining complex data. To overcome this limitation, Jira offers Jira Query Language (JQL), a query language that allows for much more precise data retrieval, but it presents complexities in its use.
+
+    To address this limitation, this work proposes applying Retrieval-Augmented Generation (RAG) techniques to create an interface that hides the complexities of JQL from the project manager. A study of three RAG techniques (Ontologies, Embeddings, and Knowledge Graphs) combined with Large Language Models is proposed. An evaluation is presented, conducted with 4 Jira projects provided by the company LKS Next-GobTech and a total of 100 questions.
 
 
-    \textbf{Key Words:}
+    \textbf{Key Words:} RAG, LLM, Jira, JQL, Ontology, Knowledge Graph, Embeddings
 \end{itshape}
+\newpage

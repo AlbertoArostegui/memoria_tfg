@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  26 JUN 2024 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.4.28)  26 JUN 2024 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1079,26 +1079,31 @@ Overfull \hbox (5.21571pt too wide) in paragraph at lines 65--69
 
 
 {C:/Users/alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/iconos_ods/09.png> <./images/logos/Logo_EHU.jpg>]) (resumen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.10 \newpage
-              [1
+l.27 
+      [1
 
 
 
-] [2] [3]) (main.toc
+] [2]) (main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- [4])
+ [3])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [5] (main.lof
+ [4] (main.lof
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1109,7 +1114,7 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [6] (main.lot
+ [5] (main.lot
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1120,54 +1125,54 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [7] (abreviaturas.tex
+ [6] (abreviaturas.tex
 
-LaTeX Warning: Hyper reference `acro:API' on page 8 undefined on input line 3.
-
-
-LaTeX Warning: Hyper reference `acro:API' on page 8 undefined on input line 3.
+LaTeX Warning: Hyper reference `acro:API' on page 7 undefined on input line 3.
 
 
-LaTeX Warning: Hyper reference `acro:KG' on page 8 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:API' on page 7 undefined on input line 3.
 
 
-LaTeX Warning: Hyper reference `acro:KG' on page 8 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:KG' on page 7 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:RDF' on page 8 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:KG' on page 7 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:RDF' on page 8 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:RDF' on page 7 undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:RDFS' on page 8 undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:RDF' on page 7 undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:RDFS' on page 8 undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:RDFS' on page 7 undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:OWL' on page 8 undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:RDFS' on page 7 undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:OWL' on page 8 undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:OWL' on page 7 undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:SPARQL' on page 8 undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:OWL' on page 7 undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:SPARQL' on page 8 undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:SPARQL' on page 7 undefined on input line 12.
+
+
+LaTeX Warning: Hyper reference `acro:SPARQL' on page 7 undefined on input line 12.
 
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-[8])
+[7])
 \openout2 = `"1. Introduccion/introduccion.aux"'.
 
- (1. Introduccion/introduccion.tex [9
+ (1. Introduccion/introduccion.tex [8
 
 ])
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
- [10]
+ [9]
 \openout2 = `"2. Contexto/contexto.aux"'.
 
  (2. Contexto/contexto.tex
@@ -1182,25 +1187,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
 [][][]\T1/lmr/m/n/10 https://www.lksnext.com/es/servicios/tecnologia/gobtech/outsourcing-it-estrategico-con-
  []
 
-(2. Contexto/2.1 Gestion de proyectos.tex) (2. Contexto/2.2 Herramientas.tex [11
+(2. Contexto/2.1 Gestion de proyectos.tex) (2. Contexto/2.2 Herramientas.tex [10
 
 
 
 ]) (2. Contexto/2.x JiraGPTNext.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [12]
-<images/Streamlit_inicial.png, id=459, 1445.4pt x 688.82344pt>
+ [11]
+<images/Streamlit_inicial.png, id=458, 1445.4pt x 688.82344pt>
 File: images/Streamlit_inicial.png Graphic file (type png)
 <use images/Streamlit_inicial.png>
 Package pdftex.def Info: images/Streamlit_inicial.png  used on input line 10.
 (pdftex.def)             Requested size: 397.3397pt x 189.3587pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [13 <./images/Streamlit_inicial.png>]))
+ [12 <./images/Streamlit_inicial.png>]))
 LaTeX Info: Redefining \. on input line 110.
 LaTeX Info: Redefining \% on input line 110.
- [14]
+ [13]
 \openout2 = `"3. Planificaci贸n/planificaci贸n.aux"'.
 
  (3. Planificaci贸n/planificaci贸n.tex (3. Planificaci贸n/3.x Tareas.tex
@@ -1209,22 +1214,25 @@ File: images/tfg_edt.png Graphic file (type png)
 <use images/tfg_edt.png>
 Package pdftex.def Info: images/tfg_edt.png  used on input line 4.
 (pdftex.def)             Requested size: 418.25368pt x 207.17924pt.
- [15
+ [14
 
 
 
  <./images/tfg_edt.png>]
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [16]
+ [15]
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
+ [16]
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
  [17]
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
  [18]
-LaTeX Info: Redefining \. on input line 154.
-LaTeX Info: Redefining \% on input line 154.
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
  [19]) (3. Planificaci贸n/3.x Presupuesto.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9.
  (C:\Users\alberto\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
@@ -1234,24 +1242,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--9
 [][][]\T1/lmr/m/n/10 https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-
  []
 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-[20{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
- [21{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[20{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 
 LaTeX Warning: Command \~ invalid in math mode on input line 53.
 
-) (3. Planificaci贸n/riesgos.tex
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+[21]) (3. Planificaci贸n/riesgos.tex
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
  [22]
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
  [23]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
  [24]))
 LaTeX Info: Redefining \. on input line 111.
 LaTeX Info: Redefining \% on input line 111.
@@ -1271,7 +1278,7 @@ although it is yet undefined on input line 2.
 
 
 ]
-<images/rag.jpg, id=556, 1541.00719pt x 579.66562pt>
+<images/rag.jpg, id=560, 1541.00719pt x 579.66562pt>
 File: images/rag.jpg Graphic file (type jpg)
 <use images/rag.jpg>
 Package pdftex.def Info: images/rag.jpg  used on input line 15.
@@ -1289,13 +1296,13 @@ LaTeX Info: Redefining \% on input line 112.
 \openout2 = `dise帽o/dise帽o.aux'.
 
  (dise帽o/dise帽o.tex
-<images/diagrama_general.png, id=582, 744.7825pt x 257.96375pt>
+<images/diagrama_general.png, id=586, 744.7825pt x 257.96375pt>
 File: images/diagrama_general.png Graphic file (type png)
 <use images/diagrama_general.png>
 Package pdftex.def Info: images/diagrama_general.png  used on input line 8.
 (pdftex.def)             Requested size: 397.3397pt x 137.62544pt.
  (dise帽o/estado_inicial.tex
-<images/diagrama_joel.png, id=585, 648.92438pt x 610.53094pt>
+<images/diagrama_joel.png, id=589, 648.92438pt x 610.53094pt>
 File: images/diagrama_joel.png Graphic file (type png)
 <use images/diagrama_joel.png>
 Package pdftex.def Info: images/diagrama_joel.png  used on input line 6.
@@ -1313,7 +1320,7 @@ although it is yet undefined on input line 2.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [32]
-<images/ontologia_visualizacion.png, id=612, 972.63374pt x 555.57562pt>
+<images/ontologia_visualizacion.png, id=616, 972.63374pt x 555.57562pt>
 File: images/ontologia_visualizacion.png Graphic file (type png)
 <use images/ontologia_visualizacion.png>
 Package pdftex.def Info: images/ontologia_visualizacion.png  used on input line 14.
@@ -1321,12 +1328,12 @@ Package pdftex.def Info: images/ontologia_visualizacion.png  used on input line 
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
  [33 <./images/ontologia_visualizacion.png>]
-<images/supports_assignee.png, id=619, 169.38281pt x 176.91093pt>
+<images/supports_assignee.png, id=623, 169.38281pt x 176.91093pt>
 File: images/supports_assignee.png Graphic file (type png)
 <use images/supports_assignee.png>
 Package pdftex.def Info: images/supports_assignee.png  used on input line 22.
 (pdftex.def)             Requested size: 140.11778pt x 146.35013pt.
-<images/rag_ontologia.png, id=620, 718.685pt x 213.79875pt>
+<images/rag_ontologia.png, id=624, 718.685pt x 213.79875pt>
 File: images/rag_ontologia.png Graphic file (type png)
 <use images/rag_ontologia.png>
 Package pdftex.def Info: images/rag_ontologia.png  used on input line 31.
@@ -1334,12 +1341,12 @@ Package pdftex.def Info: images/rag_ontologia.png  used on input line 31.
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
  [34 <./images/supports_assignee.png>]
-<images/JQL_docs_updated1.png, id=627, 569.87906pt x 257.46187pt>
+<images/JQL_docs_updated1.png, id=631, 569.87906pt x 257.46187pt>
 File: images/JQL_docs_updated1.png Graphic file (type png)
 <use images/JQL_docs_updated1.png>
 Package pdftex.def Info: images/JQL_docs_updated1.png  used on input line 40.
 (pdftex.def)             Requested size: 397.3397pt x 179.511pt.
-<images/JQL_docs_updated2.png, id=628, 555.57562pt x 351.56343pt>
+<images/JQL_docs_updated2.png, id=632, 555.57562pt x 351.56343pt>
 File: images/JQL_docs_updated2.png Graphic file (type png)
 <use images/JQL_docs_updated2.png>
 Package pdftex.def Info: images/JQL_docs_updated2.png  used on input line 45.
@@ -1347,7 +1354,7 @@ Package pdftex.def Info: images/JQL_docs_updated2.png  used on input line 45.
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
  [35 <./images/rag_ontologia.png> <./images/JQL_docs_updated1.png>]
-<images/rag_embeddings.png, id=635, 534.99875pt x 230.8625pt>
+<images/rag_embeddings.png, id=639, 534.99875pt x 230.8625pt>
 File: images/rag_embeddings.png Graphic file (type png)
 <use images/rag_embeddings.png>
 Package pdftex.def Info: images/rag_embeddings.png  used on input line 55.
@@ -1355,7 +1362,7 @@ Package pdftex.def Info: images/rag_embeddings.png  used on input line 55.
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
  [36 <./images/JQL_docs_updated2.png>]
-<images/desglose_kg.png, id=642, 603.75563pt x 491.58656pt>
+<images/desglose_kg.png, id=646, 603.75563pt x 491.58656pt>
 File: images/desglose_kg.png Graphic file (type png)
 <use images/desglose_kg.png>
 Package pdftex.def Info: images/desglose_kg.png  used on input line 66.
@@ -1363,7 +1370,7 @@ Package pdftex.def Info: images/desglose_kg.png  used on input line 66.
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
  [37 <./images/rag_embeddings.png>]
-<images/rag_grafo.png, id=649, 718.685pt x 219.82124pt>
+<images/rag_grafo.png, id=653, 718.685pt x 219.82124pt>
 File: images/rag_grafo.png Graphic file (type png)
 <use images/rag_grafo.png>
 Package pdftex.def Info: images/rag_grafo.png  used on input line 74.
@@ -1399,38 +1406,35 @@ LaTeX Info: Redefining \% on input line 114.
 
 
 ]
-<images/Resultados_gpt35.png, id=695, 570.933pt x 425.6703pt>
+<images/Resultados_gpt35.png, id=699, 570.933pt x 425.6703pt>
 File: images/Resultados_gpt35.png Graphic file (type png)
 <use images/Resultados_gpt35.png>
 Package pdftex.def Info: images/Resultados_gpt35.png  used on input line 37.
-(pdftex.def)             Requested size: 334.60422pt x 249.48051pt.
-<images/Resultados_gpt4o.png, id=696, 570.933pt x 425.6703pt>
+(pdftex.def)             Requested size: 271.86234pt x 202.69562pt.
+<images/Resultados_gpt4o.png, id=700, 570.933pt x 425.6703pt>
 File: images/Resultados_gpt4o.png Graphic file (type png)
 <use images/Resultados_gpt4o.png>
 Package pdftex.def Info: images/Resultados_gpt4o.png  used on input line 44.
-(pdftex.def)             Requested size: 334.60422pt x 249.48051pt.
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
- [44 <./images/Resultados_gpt35.png>]
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
- [45 <./images/Resultados_gpt4o.png>]
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
- [46])
+(pdftex.def)             Requested size: 271.86234pt x 202.69562pt.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [44 <./images/Resultados_gpt35.png> <./images/Resultados_gpt4o.png>]
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [45])
 LaTeX Info: Redefining \. on input line 115.
 LaTeX Info: Redefining \% on input line 115.
- [47]
+ [46]
 \openout2 = `conclusiones/conclusiones.aux'.
 
- (conclusiones/conclusiones.tex [48
+ (conclusiones/conclusiones.tex [47
 
 
 
 ])
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [49]
+ [48]
 \openout2 = `anexo/anexo.aux'.
 
  (anexo/anexo.tex
@@ -1588,11 +1592,14 @@ Overfull \hbox (44.53763pt too wide) in alignment at lines 24--227
  [] [] [] 
  []
 
-[50
+[49
 
 
 
 ]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [50]
 LaTeX Info: Redefining \. on input line 227.
 LaTeX Info: Redefining \% on input line 227.
  [51]
@@ -1602,273 +1609,62 @@ LaTeX Info: Redefining \% on input line 227.
 LaTeX Info: Redefining \. on input line 227.
 LaTeX Info: Redefining \% on input line 227.
  [53]
-LaTeX Info: Redefining \. on input line 227.
-LaTeX Info: Redefining \% on input line 227.
- [54]
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_traduccion = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (1.40387pt too wide) in paragraph at lines 333--333
+Overfull \hbox (1.40387pt too wide) in paragraph at lines 352--352
 []    \T1/lmtt/m/n/10.95 Your task will be to translate the following question, which asks for[] 
  []
 
 
-Overfull \hbox (47.39374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 JIRA issues from Spanish to English. You only have to return the translation,[] 
+Overfull \hbox (7.1526pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 template_rag_ontologia = '''<|begin_of_text|><|start_header_id|>system[] 
+ []
+
+LaTeX Info: Redefining \. on input line 352.
+LaTeX Info: Redefining \% on input line 352.
+[54]
+Overfull \hbox (12.90134pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 For example, for the question '綜u醤do vencen las incidencias asignadas[] 
  []
 
 
-Overfull \hbox (53.14247pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 do not return any additional comments. So, for example, for the question '綫u閇] 
+Overfull \hbox (7.1526pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 a Alberto Arostegui?' you should return 'Assignee, Due'. Do not return[] 
  []
 
 
-Overfull \hbox (64.63994pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 incidencias estan En Progreso?' you should return 'What issues are In Progress'.[] 
+Overfull \hbox (7.1526pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 Context: Assignee, Attachments, Comment, CustomFieldName, Due, Labels,[] 
  []
 
-
-Overfull \hbox (104.88107pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_rag_ontologia = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Use the following ontology to answer the questions, which contains information about[] 
- []
-
-
-Overfull \hbox (76.1374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 JIRA issues and how to generate JQL queries. You only have to return the JQL query[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 for it to run verbatim, do not return any additional comments. So, for example,[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 for the question 'Que incidencias estan En Progreso?' you should return 'status[] 
- []
-
-
-Overfull \hbox (53.14247pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 = 'En Progreso'. Utiliza siempre los nombres de estado en castellano, entonces[] 
- []
-
-LaTeX Info: Redefining \. on input line 333.
-LaTeX Info: Redefining \% on input line 333.
+LaTeX Info: Redefining \. on input line 352.
+LaTeX Info: Redefining \% on input line 352.
 [55]
-Overfull \hbox (110.6298pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_rag_embeddings = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
+Overfull \hbox (1.40387pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 on an ontology describing how to generate JQL queries and a question,[] 
  []
 
 
-Overfull \hbox (99.13234pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Use the following documents as support, which are examples that come from the official[] 
+Overfull \hbox (12.90134pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 question. You only have to return the JQL query for it to run verbatim,[] 
  []
 
 
-Overfull \hbox (99.13234pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Atlassian documentation to answer the questions. You only have to return the JQL query[] 
+Overfull \hbox (18.65007pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 do not return any additional comments. So, for example, for the question[] 
  []
 
 
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 for it to run verbatim, do not return any additional comments. So, for example, for[] 
+Overfull \hbox (12.90134pt too wide) in paragraph at lines 352--352
+[]    \T1/lmtt/m/n/10.95 template_retrieve_graph_nodes = '''<|begin_of_text|><|start_header_id|>[] 
  []
 
-
-Overfull \hbox (47.39374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 the question 'Que incidencias estan En Progreso?' you should return 'status =[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 'En Progreso'. Always use the status names in Spanish, so 'In Progress' will be[] 
- []
-
-
-Overfull \hbox (168.11714pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_retrieve_ontology_fields = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (76.1374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Given the following JQL fields in the context and a question, you must answer with[] 
- []
-
-
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 a list of the relevant fields for the given question, return the fields separated by[] 
- []
-
-
-Overfull \hbox (70.38867pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 commas. For example, for the question '綜u醤do vencen las incidencias asignadas a[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Alberto Arostegui?' you should return 'Assignee, Due'. Do not return any additional[] 
- []
-
-
-Overfull \hbox (168.11714pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Context: Assignee, Attachments, Comment, CustomFieldName, Due, Labels, Workratio, Status, Priority[] 
- []
-
-
-Overfull \hbox (116.37854pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_ontology_fields = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Given the following JQL fields and some additional information based on an ontology[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 describing how to generate JQL queries and a question, you must answer with the JQL[] 
- []
-
-
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 query that will answer the given question. You only have to return the JQL query for[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 it to run verbatim, do not return any additional comments. So, for example, for the[] 
- []
-
-
-Overfull \hbox (30.14754pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 question 'Que incidencias estan En Progreso ?' you should return 'status =[] 
- []
-
-LaTeX Info: Redefining \. on input line 333.
-LaTeX Info: Redefining \% on input line 333.
-[56]
-Overfull \hbox (145.12221pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_retrieve_graph_nodes = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Given the following question, you must answer with a list of the relevant nodes for[] 
- []
-
-
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 a conceptual JIRA graph, return the fields separated by commas. So, you would return[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 relevant fields for the given question, the project, the person, the issue. For[] 
- []
-
-
-Overfull \hbox (41.645pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 example, for the question '綜u醤do vencen las incidencias de MFM asignadas a[] 
- []
-
-
-Overfull \hbox (64.63994pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Alberto Arostegui?' you should return 'MFM, Alberto Arostegui, Issue, assignee'.[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Do not return any additional comments. In the context there are possible nodes.[] 
- []
-
-
-Overfull \hbox (81.88614pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_rag_graph = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (35.89627pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Use the following documents as support, which are examples that come from a[] 
- []
-
-
-Overfull \hbox (47.39374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 Knowledge Graph made from the Jira data of a project. You only have to return[] 
- []
-
-
-Overfull \hbox (41.645pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 the JQL query for it to run verbatim, do not return any additional comments.[] 
- []
-
-
-Overfull \hbox (30.14754pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 So, for example, for the question 'Que incidencias estan En Progreso?' you[] 
- []
-
-
-Overfull \hbox (53.14247pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 should return 'status = 'En Progreso'. Always use the status names in Spanish,[] 
- []
-
-
-Overfull \hbox (87.63487pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 template_standalone = '''<|begin_of_text|><|start_header_id|>system<|end_header_id|>[] 
- []
-
-
-Overfull \hbox (93.3836pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 You are an AI assistant trained on JIRA Query Language. Your task is to fullfil users[] 
- []
-
-
-Overfull \hbox (58.8912pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 questions.\nAlways use the following issue status names in Spanish and never in[] 
- []
-
-
-Overfull \hbox (35.89627pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 English: ^^POpen^^Q should be ^^PAbierto^^Q, ^^PIn Progress^^Q should be ^^PEn Progreso^^Q,[] 
- []
-
-
-Overfull \hbox (47.39374pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 ^^PResolved^^Q should be ^^PResuelto^^Q, ^^PApproved^^Q should be ^^PAprobada^^Q, ^^PDelivered^^Q[] 
- []
-
-
-Overfull \hbox (35.89627pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 should be ^^PEntregado^^Q, ^^PReopened^^Q should be ^^PReabierto^^Q, ^^PClosed^^Q should be[] 
- []
-
-
-Overfull \hbox (30.14754pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 ^^PCerrado^^Q. You should return the jql query verbatim without any additional[] 
- []
-
-
-Overfull \hbox (41.645pt too wide) in paragraph at lines 333--333
-[]    \T1/lmtt/m/n/10.95 comments. For example, for the question 'Que incidencias estan En Progreso?'[] 
- []
-
-)
+LaTeX Info: Redefining \. on input line 352.
+LaTeX Info: Redefining \% on input line 352.
+[56])
 LaTeX Info: Redefining \. on input line 118.
 LaTeX Info: Redefining \% on input line 118.
  [57]
 Overfull \hbox (19.7102pt too wide) in paragraph at lines 121--121
 []\T1/lmr/m/n/12 Frederick P. Brooks. \T1/lmr/m/it/12 The mythi-cal man-month -- Es-says on Software-Engineering\T1/lmr/m/n/12 .
- []
-
-
-Overfull \hbox (130.9464pt too wide) in paragraph at lines 121--121
-\T1/lmtt/m/n/12 proceedings . neurips . cc / paper _ files / paper / 2020 / file / 1457c0d6bfcb4967418bfb8ac142f64a -[]
  []
 
 LaTeX Info: Redefining \. on input line 120.
@@ -1896,16 +1692,16 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2B16F3F01EFCA9F5B13647DD2E17B5C3;8237.
+(rerunfilecheck)             Checksum: 7DA3403B181C608263D1A2605CC71056;8237.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32981 strings out of 474423
- 637702 string characters out of 5740774
+ 32985 strings out of 474423
+ 637853 string characters out of 5740774
  2051496 words of memory out of 5000000
- 54494 multiletter control sequences out of 15000+600000
+ 54496 multiletter control sequences out of 15000+600000
  640815 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,87p,1486b,3291s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1922,9 +1718,9 @@ pdfTeX warning (dest): name{acro:LLM} has been referenced but does not exist, re
 pdfTeX warning (dest): name{acro:PLN} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/alberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (60 pages, 1504955 bytes).
+Output written on main.pdf (60 pages, 1509933 bytes).
 PDF statistics:
- 920 PDF objects out of 1000 (max. 8388607)
- 197 named destinations out of 1000 (max. 500000)
+ 925 PDF objects out of 1000 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
  538 words of extra memory for PDF output out of 10000 (max. 10000000)
 
