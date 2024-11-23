@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-07-14T12:16:58.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KetavXabDfZ0DcvPRYsA" version="24.6.5" type="device">
+  <diagram name="Página-1" id="3geQ-GWulBXDVi1yk0Dz">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GtzS7zy0Zid11RIJIO_Q-72" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GtzS7zy0Zid11RIJIO_Q-73" value="1. ¿Cuántas&amp;nbsp; &amp;nbsp; &amp;nbsp;- incidencias...&lt;div&gt;2. ¿Cómo...&amp;nbsp; &amp;nbsp; &amp;nbsp; -&lt;/div&gt;&lt;div&gt;3. Dime qué&amp;nbsp; &amp;nbsp; &amp;nbsp;- incidencias...&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GtzS7zy0Zid11RIJIO_Q-75" value="JQL 1&lt;div&gt;&lt;br&gt;&lt;div&gt;JQL 2&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;JQL 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GtzS7zy0Zid11RIJIO_Q-76" value="&lt;font face=&quot;Lucida Console&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
